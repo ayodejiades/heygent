@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+python-multipart
+sentence-transformers
+chromadb
+langgraph
+langchain-core
+langchain-anthropic
