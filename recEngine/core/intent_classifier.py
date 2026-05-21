@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from pydantic import BaseModel, Field
-from langchain_anthropic import ChatAnthropic
 from langchain_core.prompts import PromptTemplate
+from core.llm import get_llm
 
 class IntentClassification(BaseModel):
     intent: str = Field(
@@ -27,8 +27,7 @@ def classify_intent(user_profile: dict, user_context: str) -> IntentClassificati
     """
     Classify the intent of the recommendation request.
     """
-    llm = ChatAnthropic(model="claude-3-5-sonnet-20240620", temperature=0)
-    structured_llm = llm.with_structured_output(IntentClassification)
+    llm = get_llm(temperature=0)
     
     prompt = PromptTemplate.from_template("""
     You are an intent classification agent for a recommendation system.
@@ -48,7 +47,12 @@ def classify_intent(user_profile: dict, user_context: str) -> IntentClassificati
     Also, generate an optimized 'search_query' that we can use in a vector database (e.g. ChromaDB) 
     to retrieve items. The query should combine their explicit context with their implicit tastes.
     
-    Respond in JSON matching the requested schema.
+    Return ONLY a valid JSON object matching this schema:
+    {{
+      "intent": "goal_directed|exploratory|gift_shopping|cold_start",
+      "search_query": "optimized semantic search query",
+      "reasoning": "brief explanation"
+    }}
     """)
     
     # Create a minimal summary so we don't blow up the prompt
@@ -59,9 +63,30 @@ def classify_intent(user_profile: dict, user_context: str) -> IntentClassificati
     if "persona" in user_profile:
         profile_summary += f"\nTaste Summary: {user_profile['persona'].get('summary', '')}"
         
-    chain = prompt | structured_llm
+    formatted_prompt = prompt.format(
+        profile_summary=profile_summary,
+        user_context=user_context or "No specific context provided. Just recommend something."
+    )
     
-    return chain.invoke({
-        "profile_summary": profile_summary,
-        "user_context": user_context or "No specific context provided. Just recommend something."
-    })
+    response = llm.invoke(formatted_prompt)
+    raw_content = response.content.strip()
+    
+    import re
+    import json
+    
+    cleaned = re.sub(r"^```json\s*|\s*```$", "", raw_content, flags=re.MULTILINE | re.IGNORECASE).strip()
+    
+    try:
+        data = json.loads(cleaned)
+        return IntentClassification(
+            intent=data.get("intent", "exploratory"),
+            search_query=data.get("search_query", user_context or "restaurants"),
+            reasoning=data.get("reasoning", "Failed to parse reasoning.")
+        )
+    except Exception as e:
+        print(f"Error parsing JSON in intent classifier: {e}. Raw content: {raw_content}")
+        return IntentClassification(
+            intent="exploratory",
+            search_query=user_context or "restaurants",
+            reasoning="Fallback due to LLM response parsing error."
+        )

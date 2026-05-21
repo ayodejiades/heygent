@@ -8,16 +8,16 @@ It intercepts the standard flow to apply demographic priors or fallback strategi
 from dotenv import load_dotenv
 load_dotenv()
 
-from typing import List, Dict, Any
-from langchain_anthropic import ChatAnthropic
-from langchain_core.prompts import PromptTemplate
+from typing import Any
 from pydantic import BaseModel, Field
+from langchain_core.prompts import PromptTemplate
+from core.llm import get_llm
 
 class ColdStartStrategy(BaseModel):
     clarifying_question: str = Field(
         description="A single, polite, natural question to ask the user to narrow down their tastes."
     )
-    inferred_preferences: str = Field(
+    inferred_preferences: Any = Field(
         description="What we can guess about this user based on their limited data or demographics."
     )
     search_query: str = Field(
@@ -28,8 +28,7 @@ def handle_cold_start(user_profile: dict, user_context: str) -> ColdStartStrateg
     """
     Determine a cold start strategy for a new user.
     """
-    llm = ChatAnthropic(model="claude-3-5-sonnet-20240620", temperature=0.3)
-    structured_llm = llm.with_structured_output(ColdStartStrategy)
+    llm = get_llm(temperature=0.3)
     
     prompt = PromptTemplate.from_template("""
     You are an expert recommendation agent handling a "cold-start" user.
@@ -42,12 +41,40 @@ def handle_cold_start(user_profile: dict, user_context: str) -> ColdStartStrateg
     1. Formulate ONE highly effective clarifying question that would help you recommend better items. (e.g. "Do you prefer spicy local food or continental dishes?")
     2. Infer any preferences based on their name, location (if known), or the context they provided.
     3. Formulate a 'search_query' for our vector database to fetch "safe", highly-rated, popular items as a fallback.
+    
+    Return ONLY a valid JSON object matching this schema:
+    {{
+      "clarifying_question": "a clarifying question",
+      "inferred_preferences": "what you inferred",
+      "search_query": "broad search query"
+    }}
     """)
     
-    chain = prompt | structured_llm
+    formatted_prompt = prompt.format(
+        name=user_profile.get("name", "Unknown"),
+        review_count=user_profile.get("review_count", 0),
+        user_context=user_context or "None"
+    )
     
-    return chain.invoke({
-        "name": user_profile.get("name", "Unknown"),
-        "review_count": user_profile.get("review_count", 0),
-        "user_context": user_context or "None"
-    })
+    response = llm.invoke(formatted_prompt)
+    raw_content = response.content.strip()
+    
+    import re
+    import json
+    
+    cleaned = re.sub(r"^```json\s*|\s*```$", "", raw_content, flags=re.MULTILINE | re.IGNORECASE).strip()
+    
+    try:
+        data = json.loads(cleaned)
+        return ColdStartStrategy(
+            clarifying_question=data.get("clarifying_question", "What kind of restaurants do you like?"),
+            inferred_preferences=data.get("inferred_preferences", "None"),
+            search_query=data.get("search_query", user_context or "popular restaurants")
+        )
+    except Exception as e:
+        print(f"Error parsing JSON in cold start: {e}. Raw content: {raw_content}")
+        return ColdStartStrategy(
+            clarifying_question="What kind of restaurants do you like?",
+            inferred_preferences="None",
+            search_query=user_context or "popular restaurants"
+        )

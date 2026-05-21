@@ -20,28 +20,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-sonnet-4-20250514"
-
+from core.llm import get_llm
+from langchain_core.messages import SystemMessage, HumanMessage
 
 def _call_claude(system: str, user: str, max_tokens: int = 1024) -> str:
-    """Thin wrapper around the Anthropic messages API."""
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    headers = {
-        "Content-Type": "application/json",
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01"
-    }
-    payload = {
-        "model": MODEL,
-        "max_tokens": max_tokens,
-        "system": system,
-        "messages": [{"role": "user", "content": user}],
-    }
-    resp = httpx.post(ANTHROPIC_API_URL, headers=headers, json=payload, timeout=60)
-    resp.raise_for_status()
-    data = resp.json()
-    return data["content"][0]["text"]
+    """Uses OpenRouter ChatOpenAI backend to run the persona extraction."""
+    llm = get_llm(temperature=0.1)
+    messages = [
+        SystemMessage(content=system),
+        HumanMessage(content=user)
+    ]
+    response = llm.invoke(messages)
+    return response.content
 
 
 def _format_review_history(profile: dict) -> str:

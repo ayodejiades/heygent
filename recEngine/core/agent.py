@@ -10,7 +10,7 @@ load_dotenv()
 
 from typing import TypedDict, List, Dict, Any, Optional
 from langgraph.graph import StateGraph, END
-from langchain_anthropic import ChatAnthropic
+from core.llm import get_llm
 from langchain_core.prompts import PromptTemplate
 from pydantic import BaseModel, Field
 
@@ -54,10 +54,12 @@ def analyze_intent_node(state: AgentState) -> AgentState:
 
 def retrieve_node(state: AgentState) -> AgentState:
     """Retrieve candidates from ChromaDB using the search query."""
+    if state.get("retrieved_candidates"):
+        return state
+        
     indexer = BusinessIndexer()
     candidates = indexer.retrieve(state["search_query"], n_results=10)
     
-    # If Chroma is empty (e.g. hackathon demo without indexing), fallback to empty list
     state["retrieved_candidates"] = candidates
     return state
 
@@ -78,8 +80,7 @@ def reason_and_score_node(state: AgentState) -> AgentState:
         state["scored_candidates"] = []
         return state
         
-    llm = ChatAnthropic(model="claude-3-5-sonnet-20240620", temperature=0.1)
-    structured_llm = llm.with_structured_output(ReasoningResult)
+    llm = get_llm(temperature=0.1)
     
     persona = state["user_profile"].get("persona", {})
     
@@ -94,43 +95,72 @@ def reason_and_score_node(state: AgentState) -> AgentState:
     Candidates:
     {candidates}
     
-    Step 1: Reason step-by-step (Chain of Thought) about why this user would like or dislike these candidates.
-    Step 2: Score each candidate (predicted_stars 1-5, confidence 0-1) and write a 1-2 sentence justification tailored to this user ('why_this_user').
+    Step 1: Reason step-by-step (Chain of Thought) about why this user would like or dislike these candidates. Store this in the "reasoning_trace" key.
+    Step 2: Score each candidate (predicted_stars 1-5, confidence 0-1) and write a 1-2 sentence justification tailored to this user ('why_this_user'). Store these in "scored_items" as a list of objects containing "item_id", "predicted_stars", "why_this_user", and "confidence".
     
-    Return the result in JSON matching the schema.
+    Return ONLY a valid JSON object matching this schema:
+    {{
+      "reasoning_trace": "your detailed reasoning trace here",
+      "scored_items": [
+        {{
+          "item_id": "biz_1",
+          "predicted_stars": 4.5,
+          "why_this_user": "why they would like it",
+          "confidence": 0.9
+        }}
+      ]
+    }}
     """)
     
     import json
+    import re
+    
     # Minify candidates to fit in context easily
     minified_candidates = []
     for c in state["retrieved_candidates"]:
         minified_candidates.append({
-            "id": c.get("business_id"),
+            "item_id": c.get("business_id"),
             "name": c.get("name"),
             "categories": c.get("categories"),
             "stars": c.get("stars")
         })
         
-    result = structured_llm.invoke({
-        "name": state["user_profile"].get("name"),
-        "persona": json.dumps(persona),
-        "context": state["user_context"],
-        "candidates": json.dumps(minified_candidates)
-    })
+    formatted_prompt = prompt.format(
+        name=state["user_profile"].get("name"),
+        persona=json.dumps(persona),
+        context=state["user_context"],
+        candidates=json.dumps(minified_candidates)
+    )
     
-    state["reasoning_trace"] = result.reasoning_trace
+    response = llm.invoke(formatted_prompt)
+    raw_content = response.content.strip()
     
-    # Merge scores back with full candidate data
+    # Clean code blocks
+    cleaned = re.sub(r"^```json\s*|\s*```$", "", raw_content, flags=re.MULTILINE | re.IGNORECASE).strip()
+    
+    try:
+        result_dict = json.loads(cleaned)
+    except Exception as e:
+        print(f"Error parsing JSON in reason_and_score: {e}. Raw content: {raw_content}")
+        result_dict = {
+            "reasoning_trace": f"Failed to parse LLM response: {raw_content}",
+            "scored_items": []
+        }
+    
+    state["reasoning_trace"] = result_dict.get("reasoning_trace", "No reasoning provided.")
+    scored_items = result_dict.get("scored_items", [])
+    
     scored_full = []
-    for score in result.scored_items:
-        full_biz = next((c for c in state["retrieved_candidates"] if c.get("business_id") == score.item_id), None)
+    for score in scored_items:
+        item_id = score.get("item_id")
+        full_biz = next((c for c in state["retrieved_candidates"] if c.get("business_id") == item_id), None)
         if full_biz:
             scored_full.append({
-                "item_id": score.item_id,
+                "item_id": item_id,
                 "item_name": full_biz.get("name"),
-                "predicted_stars": score.predicted_stars,
-                "why_this_user": score.why_this_user,
-                "confidence": score.confidence,
+                "predicted_stars": float(score.get("predicted_stars", 3.0)),
+                "why_this_user": score.get("why_this_user", ""),
+                "confidence": float(score.get("confidence", 0.5)),
                 "raw_data": full_biz
             })
             

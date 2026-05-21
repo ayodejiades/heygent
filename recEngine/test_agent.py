@@ -4,6 +4,10 @@ test_agent.py
 Script to verify the agent logic.
 """
 
+import sys
+if sys.platform.startswith("win"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 from dotenv import load_dotenv
 load_dotenv()
 
