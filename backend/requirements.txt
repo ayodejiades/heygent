@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+python-multipart
+google-genai
+langgraph
+chromadb
+scikit-learn

@@ -1,0 +1,1351 @@
+[
+  {
+    "user_id": "7qBgGzyf0FbHKC0jiI1J8A",
+    "name": "Sarah",
+    "review_count": 357,
+    "average_stars": 4.05,
+    "reviews": [
+      {
+        "stars": 4.0,
+        "text": "I never knew this place was here.  \nA comfortable, clean environment with seating downstairs.\nI always prefer savory vs sweet so I ordered the Norwegian Crepe and it was so good and filling.  I would love to go back there and try all their other options... and maybe share a sweet one for dessert",
+        "date": "2017-01-28 02:31:36",
+        "business_id": "GOSVLhjUT6TnrPhkkmDOpw",
+        "business_name": "Vineyards Cafe",
+        "business_categories": "Coffee & Tea, Cafes, Food, Creperies, Internet Cafes, Restaurants, Breakfast & Brunch",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I walk by this place daily and I've been wanting to eat here for a long time.  My friend had mentioned that this place had one of her favorite burgers so I had to check it out.\nIt was DELICIOUS!  It may be on the saltier side as others have mentioned but I have a salty palate so I didn't really notice.  Something about the beef patties with the cheese and pickles made for a really delicious combo. \nThe fries that came with it was good too.\nservice was good too",
+        "date": "2016-02-14 15:13:48",
+        "business_id": "7lwe7n-Yc-V9E_HfLAeylg",
+        "business_name": "Pub & Kitchen",
+        "business_categories": "Restaurants, Pubs, Food, Bars, American (New), Nightlife",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I love spicy foods and on a cold day like today, this really hits the spot.  My friends and I ordered the following dishes and loved each of them.  \nDan Dan Noodles is a must every time we go here\nMapo Tofu was one of our favorites.\nDry Pepper Style Chicken was average.\nDouble Cooked Style Fish was my absolute favorite of the 4 dishes.  I think this is a must try.\nGreat service too!",
+        "date": "2014-01-24 13:31:46",
+        "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+        "business_name": "Han Dynasty",
+        "business_categories": "Restaurants, Chinese, Szechuan",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I was pleasantly surprised.  My friends and I were looking for a place to eat in the area and we came across this place.  We ordered the marguarita pizza, a beet salad, and maybe one other dish (can't remember what it was).  It made for a good, quick meal",
+        "date": "2015-07-19 20:56:23",
+        "business_id": "BWITd9JUXP3gSi1z3Y-z8g",
+        "business_name": "In Riva",
+        "business_categories": "Italian, Food, Nightlife, Pizza, Bars, Cocktail Bars, Beer, Wine & Spirits, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I ordered tacos al pastor and swapped one of my tacos with my friends Carnitas Taco.  In my opinion, Al Pastor was better.  I do wish that we were able to order 3 different tacos rather than have to order 3 of the same.",
+        "date": "2017-05-31 16:23:39",
+        "business_id": "I5KZm-NnxYeEQsmp6nK5_w",
+        "business_name": "Las Cazuelas Restaurant BYOB",
+        "business_categories": "Food, Tacos, Mexican, Latin American, Restaurants, Spanish",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I never get tired of this place.  If it weren't for the distance, I would probably go there far more often than I already do.  \nI like that I could choose from a variety of soondubu options and level of spiciness.  I always go for HOT.  You can crack a raw egg in the piping hot soup and mix it to allow it to cook in the soup.  A side of rice comes out in a hot clay bowl, which \"cooks\" the rice into a bit of crunchy goodness.",
+        "date": "2013-02-28 04:16:23",
+        "business_id": "QWqKTWQ2OiDgo3dzNkpung",
+        "business_name": "Jong Ka Jib",
+        "business_categories": "Korean, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "great place for happy hour.  great deals and good food.  good portions too.  we got wings, hummus, sweet & spicy fried calamari, and mac n cheese.  My fave was the hummus",
+        "date": "2014-05-18 01:36:07",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "I came here a few months ago for a friends birthday.  I thought that everything was good in general but not overly impressed.  I think at the time there was nothing on the menu that really jumped out at me.  And if I'm going to be spending a lot of money for a meal, I expect to be wowed. \n\nHowever, as I look online at the menu today, there are several that do jump out at me so might have just been bad timing (at least for my tastes)",
+        "date": "2015-01-30 17:52:57",
+        "business_id": "K8b2MQ5Az59-nzvqUfjJEQ",
+        "business_name": "The Farm and Fisherman",
+        "business_categories": "American (New), Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This was my 2nd visit to Cedar Park Cafe and first since they reopened.  I came with a fairly large grp of 8 and we got seated pretty quickly. Separate tables but right next to each other.  I ordered the chicken and waffles which I thought was quite good.  They other breakfast options ordered by my friends looked really good too.  The service was really nice.    I definitely would like to go back",
+        "date": "2015-04-12 19:49:37",
+        "business_id": "JomDoQafikclSVVCPkWjnA",
+        "business_name": "Cedar Park Cafe",
+        "business_categories": "Diners, Restaurants, Sandwiches, Breakfast & Brunch, Vegetarian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "I was disappointed with this visit to Han Dynasty.  The reason my cousin and I decided on Han Dynasty was bc we were in the mood for spicy.  Unfortunately, that's not what we got :( \n\nWe ordered the Dan Dan Noodles, Double cooked pork belly, and salt and pepper squid.  The Dan Dan Noodles and Pork Belly tasted fine but were not spicy at all.  So that was a bit of a disappointment. Maybe the were supposed to ask us for level of spiciness but they didn't\n\nI really wasn't planning to do a 2nd review but felt I needed to bc of this bigger disappointment.  I thought I was getting validation for the full amount for the parking as indicated on the website, but they only gave me a $2 discount. I would have been better off parking on the street.",
+        "date": "2014-07-24 12:07:28",
+        "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+        "business_name": "Han Dynasty",
+        "business_categories": "Restaurants, Chinese, Szechuan",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I've been wanting to try this place out and especially for Happy Hour. \nI met my friends at the bar and we enjoyed some cocktails and all the pizza options. \nThe service was nice and attentive.\nI really enjoyed the pizza.  My favorite was the pepperoni. Loved the way the pepperoni pieces were a bit crispy on the edges.   My next fave was the four cheeses pizza.  Flavorful.  The Margherita was good too.  It just didn't stick out as much as the others.",
+        "date": "2017-02-04 03:15:41",
+        "business_id": "PdMXmOWDRHICAx6SLgu1dQ",
+        "business_name": "24",
+        "business_categories": "Italian, Bars, Restaurants, Nightlife, Wine Bars, Breakfast & Brunch",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I've been wanting to eat here for awhile and so glad I finally got a chance.  The restaurant is small but clean with good service.\n\nWe ordered the following:\nsalt and pepper wings - pretty average\nTaiwanese meatballs - interesting. It's like a mochi type covering beef mix. Not a fan of the sauce.  \nscallion pancakes - really liked these. Nice and chewy and good dipping sauce\noyster pancakes - I enjoyed these but same sauce as the meatballs.  Will ask for the sauce on the side next time.\nPeking noodle (ja jian mien) - really liked this dish.  The noodles were cooked well and the sauce was really good\nMinced pork and eggplant dish was flavorful and delicious\n3 cup chicken - I wasn't expecting much but chicken was really tender and sauce was good - I didn't have a huge issue with bones as mentioned in other reviews\nSalt and pepper pork chops - one of the faves of the bunch.  This was so good. \n\nNext time, I'd like to try the Indonesian fried rice and mapotofu",
+        "date": "2014-07-31 18:16:36",
+        "business_id": "mCo2uVTTGYrEhRrkQW-CMw",
+        "business_name": "Empress Garden",
+        "business_categories": "Taiwanese, Chinese, Noodles, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I'm SO happy with my experience with Wilensky.  I live in a condo and have been keyless for my HVAC closet for 3yrs.  I always felt so bad when I had to have someone come unlock it.  They arrived to my place as they said they would and they were so nice!  New keys were made and synced with the condo master key as well.",
+        "date": "2018-11-01 18:12:21",
+        "business_id": "u2v1Ml7xb-l5NUmOk5bcNA",
+        "business_name": "Wilensky Locks & Hardware",
+        "business_categories": "Contractors, Home Services, Home & Garden, Hardware Stores, Keys & Locksmiths, Door Sales/Installation, Shopping, Building Supplies",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I finally got to check this place out and I was happy with my experience. \nI got the Lychee Lassi which was delicious.  I can't wait to go back and try different flavors. \n\nI also got Chicken Masala Chaat for lunch.  I enjoyed the flavors a lot but it was very saucy.  \nI think it would have been PERFECT over rice which I might do on my next time I order from here.",
+        "date": "2017-05-02 22:48:32",
+        "business_id": "U30ggGzFpXvc2NZYwOW3qg",
+        "business_name": "Mood Cafe",
+        "business_categories": "Cafes, Pakistani, Juice Bars & Smoothies, Restaurants, Ice Cream & Frozen Yogurt, Halal, Indian, Coffee & Tea, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "WOW!  I really enjoyed this place. \n\nWe ordered Fried Cauliflower, Blue Duck Fries, and Quack & Cheese to share.\nMy friend and I share the General Tso's wings (a little too sweet for me) and House Grind Burger\n\nMy Faves:\nThe Fried Cauliflower was amazing, with a soft, mashed potato texture and a outer crispy breading. \nHouse Grind Burger was juicy and flavorful.  no need for ketchup or any extra frills\nBlue Duck Fries",
+        "date": "2016-07-24 17:15:50",
+        "business_id": "O6hY9yenifuRXrpc4TfgsQ",
+        "business_name": "The Blue Duck",
+        "business_categories": "Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "Te3BwftEFN8C9WxImhfM_g",
+    "name": "Gwendolyn",
+    "review_count": 986,
+    "average_stars": 4.11,
+    "reviews": [
+      {
+        "stars": 2.0,
+        "text": "I wanted to like Izumi but didn't. The host/waiter certainly was accommodating so service was not the issue. For the price I found the portion size to be very small.  When paying $13 for a roll I expect it to be much more hearty in size than an appetizer type roll that is more like a side dish than an entree.  The sea weed salad was nasty - although I felt like the waiter prepared us for the - others must have complained. The ginger chicken took a long time to cook but I am not sure why as when it came out it was still pink.  The flavor was ok but for $21 I would have expected to get more than an appetizer size portion of chicken. It was accompanied by a risotto which was flavored as salt. The saltiness was so overpowering that you couldn't taste anything else.  As someone who lived in Japan for four years and studied the language and culture for eleven I was underwhelmed by izumi.",
+        "date": "2015-09-24 10:15:13",
+        "business_id": "Bw0cpnfI-Y9QmjWzqS-oFg",
+        "business_name": "Izumi",
+        "business_categories": "Restaurants, Sushi Bars, Desserts, Food, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "I really wish lucky goat would carry skim milk. On several occasions they have either not had it, or worse handed it to me and then I realized that the expiry date had passed. I can imagine that I am not the only person that doesn't like whole milk or cream in my coffee. It just seems to me like skim milk should be a staple at a coffee house and it isn't here. Other than that, the service is always friendly and they have a nice assortment of fresh pastries. It is for sure a welcome addition to the neighborhood.....if management reads these reviews....please consider having fresh skim milk.",
+        "date": "2018-09-03 12:45:47",
+        "business_id": "vdpxxb6fxjYtJMnW_V0GZg",
+        "business_name": "Lucky Goat Coffeehouse",
+        "business_categories": "Food, Coffee & Tea",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I happened to find myself in this part of town and needed my nails done.  This salon doesn't offer that spa like zen feeling like some do however I got a beautiful and professional looking french gel manicure for $22.  That is very inexpensive.  I found the staff friendly and attentive as well.  I am happy to be the first person to give this nail salon a positive review.",
+        "date": "2016-01-20 23:12:27",
+        "business_id": "hBoXl-5Evn7ScoY65u2TwQ",
+        "business_name": "Hollywood Nails",
+        "business_categories": "Nail Salons, Beauty & Spas",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "The absolute sweetest people run this store! Super professional and really good food! Thank you Dough Boys for being in the neighborhood!",
+        "date": "2018-06-12 14:40:49",
+        "business_id": "FmQygwfW_x8AkEWLXESezQ",
+        "business_name": "Dough Boy Pizza",
+        "business_categories": "Restaurants, Pizza",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "I love the location here - right on Kelly drive - and that it is an inviting oasis for bikers, joggers, dog owners and drivers! Yes this restaurant is right off of the Kelly Drive bike path and they have adequate bike racks for bikers to lock their bikes. They have an outdoor area where dog owners are invited to bring their dogs and enjoy pizza in a gated picnic like table area. There is a parking lot which is a huge plus for this neighborhood although be careful getting in and out of the spots since they are tight. Those are the main advantages of this spot. I found the food to be so so as well as the service and the value.",
+        "date": "2018-07-23 16:39:30",
+        "business_id": "BWITd9JUXP3gSi1z3Y-z8g",
+        "business_name": "In Riva",
+        "business_categories": "Italian, Food, Nightlife, Pizza, Bars, Cocktail Bars, Beer, Wine & Spirits, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "This place is so yummy and fun! I can't believe that I had not been here before. I love that they offer such an extensive menu and that everything ordered can be customized. They also offer a very extensive vegan menu which is a wonderful option for plant-based eaters. Our server was attentive and our food came out quickly. I thought about taking one star off  the review since I received the wrong menu item, but the server was so apologetic about it and sought to immediately correct it that I didn't let it phase me.  Apparently the cook was new and put buffalo sauce on the chicken sandwich that I ordered that was not supposed to have BBQ sauce. I opted to keep the sandwich since even it was not what I ordered it was super delicious! Well done bareburger.",
+        "date": "2019-07-23 12:09:28",
+        "business_id": "2er_V-oAd7IbQ5YTY56r7A",
+        "business_name": "Bareburger - Midtown Village",
+        "business_categories": "Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "What a gem of a place in the francisville neighborhood! I had a skim chai latte and a sucre crepe. The staff was very friendly and the downstairs dining area was very welcoming. We will be back.",
+        "date": "2018-11-12 11:51:06",
+        "business_id": "GOSVLhjUT6TnrPhkkmDOpw",
+        "business_name": "Vineyards Cafe",
+        "business_categories": "Coffee & Tea, Cafes, Food, Creperies, Internet Cafes, Restaurants, Breakfast & Brunch",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Read some seemingly unfair posts about this establishment. People saying it is cluttered and unorganized. This is not Tiffanys so if you want to overpay for a beautiful spacious store with everything perfectly organized than that's up to you. I would rather go to a place like this where I can find wonderful one of a kind pieces with some history attached to them! I had a good experience with the owner here who gave me sound -- seemingly fatherly --- advice about some heirloom jewelry I own! I'm happy an alarm goes off when you walk in..... There is millions of dollars of jewlery in there and appreciate the candy offerings.",
+        "date": "2015-03-12 16:15:24",
+        "business_id": "4mKAD2m2ek-z51ZPqL6-aw",
+        "business_name": "Richard Kenneth Jewelers",
+        "business_categories": "Shopping, Jewelry, Watches, Antiques",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Finally checked this place out after living in the neighborhood for several months. Pluses they sell coffee, play music and have seating. Minuses there is no food with the exception of bagels and pastries. The ambiance is great very well done decor.",
+        "date": "2017-07-18 12:00:04",
+        "business_id": "vdpxxb6fxjYtJMnW_V0GZg",
+        "business_name": "Lucky Goat Coffeehouse",
+        "business_categories": "Food, Coffee & Tea",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "We have tried many of the bakeries in Chinatown and beleive that this is the best one. The quality of their pastries is superior and their deserts are also more attractive than the other bakeries. This is my go to for a chinatown bakery.",
+        "date": "2020-03-18 15:22:01",
+        "business_id": "MTSW4McQd7CbVtyjqoe9mw",
+        "business_name": "St Honore Pastries",
+        "business_categories": "Restaurants, Food, Bubble Tea, Coffee & Tea, Bakeries",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "The owner here is so friendly and is always present in the store which is so nice to see. He does a lot for the community too. The pizza is tasty and we have also enojyed some other menu items here like chicken fingers and a tuna sub.",
+        "date": "2020-06-10 10:35:16",
+        "business_id": "1NCUTTp6rIyXpwUDVv9qOA",
+        "business_name": "Lazos Pizza & Grill",
+        "business_categories": "Pizza, American (Traditional), Restaurants, Italian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Came here with a large group of friends after eating at the Italian market and was fairly underwhelmed. It was jumping with people and they were showing sports on the TV which made my husband happy but I found the atmosphere to be lackluster. Also there are two bathrooms but one was out of use which made for a very long line. One thing to note - - if you forget to bring wine to your BYOB in the Italian Market they sell it here!",
+        "date": "2018-11-04 11:46:48",
+        "business_id": "QdN72BWoyFypdGJhhI5r7g",
+        "business_name": "Bar One",
+        "business_categories": "Cocktail Bars, Bars, Italian, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "What a nice find in an offbeat part of town. This did remind me of a new york bagel shop and within minutes of walking in we were walking out with a delicious breakfast sandwich on a New York style bagel. The staff was friendly and there was self serve coffee. We will be back.",
+        "date": "2019-09-13 10:40:37",
+        "business_id": "VCkSUsdL5P0p16DAPxVROA",
+        "business_name": "NY Bagel & Deli Shop",
+        "business_categories": "Bagels, Food, Breakfast & Brunch, Coffee & Tea, Restaurants, Burgers, Delis",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "\"It's a good thing the seats are comfy; obtaining a drink can take upwards of 20 minutes. But they're made with care and unusual flourishes, like house-infused chai bourbon or homemade ginger beer. If you're not in a rush, you can look at the leisurely pace as one of 1 Tippling's charming quirks\"\nA classic cocktail bar serving well mixed and carefully crafted spirits.  Generous serving sizes and fairly priced cocktails make this a better and more affordable bet as compared to Franklin Mortgage and the Ranstead room.  Very friendly and reliable service.",
+        "date": "2017-10-29 19:00:15",
+        "business_id": "tzVLTQNUtiCAxUZmEuF0vQ",
+        "business_name": "1 Tippling Place",
+        "business_categories": "Bars, Nightlife, Lounges, Cocktail Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Had a wonderful experience here with a large party for brunch! The champagne towers were too die for and the food was simply delicious! We were celebrating a birthday and I really appreciated that they allowed us to bring in an outside cake. All of my friends were really appreciative of their meals and the service.  I am very much looking forward to going back!",
+        "date": "2022-01-06 10:30:11",
+        "business_id": "HFuAKE0uZ-frIMjroeA-cA",
+        "business_name": "SET NoLibs",
+        "business_categories": "Mexican, Bars, Restaurants, Asian Fusion, Lounges, Nightlife, Salad, Tacos",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "ouODopBKF3AqfCkuQEnrDg",
+    "name": "Danan",
+    "review_count": 2108,
+    "average_stars": 3.57,
+    "reviews": [
+      {
+        "stars": 4.0,
+        "text": "The Three Cup Chicken is amazing here as is the stir-fried cabbage with chili.  I actually think that it's better here than at Jane G's.  The salt and pepper jumbo shrimp and mei fun are also solid.  The mei fun comes with plenty of protein and egg.  The prices are definitely much more reasonable and the $8.50 lunch specials are fantastic.  A portion will easily last 2 meals, and the food is served very quickly.  It's also close enough to campus that a 1 hour student-faculty lunch is completely feasible.",
+        "date": "2015-09-14 19:50:16",
+        "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+        "business_name": "Han Dynasty",
+        "business_categories": "Restaurants, Chinese, Szechuan",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I love this cute little BYOB with Thai and Laotian dishes that pack a nice, flavorful punch.  We were here for UC Dining Days and the dishes were great.  I had the chicken satay app with the red curry chicken, and found both to be very good.  The satay was juicy and flavorful with a great peanut dipping sauce, and the curry was very solid although it wasn't very spicy.  I also had a few bites of the triple flavor tilapia in the sweet and sour sauce, and really like the crispy, pan-seared fillet combined with the garlicky sauce.  Will definitely have to get this next time.  Most restaurants like to fry the fillet when they make a sweet and sour dish but pan searing actually brings out the flavor more and gives that delicious crispy exterior without killing your arteries.  We finished off with the mango sticky rice and coconut rice pudding.  While the mango sticky rice was very good, I liked the coconut rice pudding more because I love all things coconut and this was a delicious coconut-based concoction.  If you are in the area this week, and need to grab a bite, definitely stop in for the $15 dining days special.  It's a great deal and the food is very good.  They also have homemade beef jerky at $6/order, which I couldn't resist getting to-go; while it wasn't as fantastic as my aunt's homemade jerky, the meat was very well-marinated and flavorful and great paired with the accompanying chili paste.  The ambiance is very cozy and the unique curry soup bowls add a nice touch.  Service was friendly but we did have to ask for water refills a few times.",
+        "date": "2012-07-23 21:14:27",
+        "business_id": "14ZGwnDyydXdSBsLXpSUrA",
+        "business_name": "Vientiane Caf\u00e9",
+        "business_categories": "Vietnamese, Restaurants, Food, Thai, Coffee & Tea, Laotian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The Cochinita Pibil is marinated and slow-cooked until it is wonderfully tender and full of flavor.  I get this every single time and will probably continue to do so.  The accompanying rice is nicely seasoned and fluffy, although I'm not a fan of the fried plantains.  The crab and shrimp empanadas are a nice diversion from the usual beef, pork, and chicken, and the guacamole is very fresh.  The service is very friendly and the sangria is great.  If you're a margarita person, they have pitchers of those, too.  The menu isn't very extensive but they do a good job on the dishes that are offered.  A nice place to grab some Mexican food and ritas.",
+        "date": "2010-07-09 22:32:55",
+        "business_id": "Ryt1Fhgz7sixMQSJiLyP_g",
+        "business_name": "Zocalo",
+        "business_categories": "Restaurants, Mexican",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "3 pastries for $1.25 after 7:00 pm!  I love coming here on a Sunday and stocking up for the week with a box full of rolls and custards.  The baked goods here are always very fresh and consistent.  I'm a big fan of the egg custards, which have a layered, flaky shell, and the coconut milk buns.  The cakes are better at Greenleaf's but the breakfast pastries here are excellent.",
+        "date": "2010-10-25 03:52:44",
+        "business_id": "MTSW4McQd7CbVtyjqoe9mw",
+        "business_name": "St Honore Pastries",
+        "business_categories": "Restaurants, Food, Bubble Tea, Coffee & Tea, Bakeries",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Yes, the food is cheap but I found it to be somewhat lacking in flavor or actually, richness.  When I want Indian, I expect my dishes to be prepared with a small amount of ghee to give it that rich taste, which was lacking in the entrees here.  I suppose my heart should thank me?  Anyhow, the chicken tandoori was a bit disappointing, as was the chicken tikka masala; both were a bit on the bland side.  While I have yet to find the perfect chicken tikka masala in the tri-state vicinity, the tandoori chicken at Mehek in Princeton remains to be surpassed.  The naan here was not that fantastic but still edible; it wasn't as crispy as i would have liked.  Overall, the place is a very clean, organized restaurant to grab an inexpensive meal that is pretty healthy.  Maybe a bit too healthy for my personal taste but it is cheap and fast.  Kind of like cafeteria-style Indian food.",
+        "date": "2011-04-04 03:00:02",
+        "business_id": "ngvE1G9IckUO-ljZBFo23w",
+        "business_name": "Mumbai Bistro",
+        "business_categories": "Indian, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The pastries are decent but the coconut bread and raisin breads are very dough-y and had the tendency to stick to the roof of your mouth.  The coconut bread only had a very scant amount of shredded coconut and was, itself, a bit on the bland side.  Definitely not even close to what you would get in Flushing.  We had to toast the bread just so we could actually swallow i The sesame butter cookies were fantastic: light, crisp, covered in sesame seeds, and containing the perfect amount of sweetness.  These are much akin to the butter cookies from Roma's and Isgro's, except with an Asian twist, compliments of the sesame seeds.  The almond puffs are also quite delish and very flaky and light with plenty of sliced, toasted almonds and a drizzle of honey on top.  The egg tarts are great with a flakey, layered, and buttery crust.  Come here for the cookies, egg tarts, and pastries, not for the breads.",
+        "date": "2012-12-25 21:21:41",
+        "business_id": "MTSW4McQd7CbVtyjqoe9mw",
+        "business_name": "St Honore Pastries",
+        "business_categories": "Restaurants, Food, Bubble Tea, Coffee & Tea, Bakeries",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "It's a Wawa so by virtue of its very existence, it already has my favor.  This one is located right across the street from Vance, which gives yours truly reassurance that coffee and sandwiches will be in plentiful supply for the next 2 years - even without a company-provided Alterra brewer and Birdbath Bakery.  Overall, it's your standard Wawa with decent service and all of the usual offerings.  I do love the chicken salad and am very glad to see that I can now order it in platter form, with my selection of veggie toppings and condiments.  Plus, Hoagiefest is now in full force!  I can imagine that it is packed during the academic year but hopefully the undergrads will be back in the dining halls?  Maybe...",
+        "date": "2014-06-27 03:57:10",
+        "business_id": "ppFCk9aQkM338Rgwpl2F5A",
+        "business_name": "Wawa",
+        "business_categories": "Restaurants, Automotive, Delis, Gas Stations, Food, Coffee & Tea, Sandwiches, Convenience Stores",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "The service here is amazing but the takoyaki?  Let's just say that I have had better.  My octopus and spicy shrimp could have been cooked for a few minutes longer to attain that desired level of crispiness.  The batter itself was also a bit lacking in flavor.  This is a cute and inepensive place to stop by if you have never had takoyaki before and want to try it (it's the only restaurant of its kind in Philly, that I know of).  Just don't wait until the balls are cool to eat them because they really don't taste good then; takoyaki is meant to be eaten as soon as the dish is served.  Me?  I'll wait until I'm in NY or CA.",
+        "date": "2010-06-22 12:13:01",
+        "business_id": "tCLAeZsjXFG9RumJ4Hn0Kw",
+        "business_name": "Maru Global",
+        "business_categories": "Restaurants, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The ambiance here is great and it's a great setting for a business dinner or lunch...which is probably why it's across the street from the Sofitel.  The food was decent, at least with regards to the canapes.  The garlic parmesan fries were flavorful and crispy, and the truffle popcorn is a nice twist on an otherwise standard item.  The pulled pork sliders were also solid with a flavorful and sweet bourbon bbq sauce.  We had a group gathering here and the setting was perfect for mingling and catching up with friends..",
+        "date": "2014-09-24 03:20:09",
+        "business_id": "oBhJuukGRqPVvYBfTkhuZA",
+        "business_name": "Square 1682",
+        "business_categories": "American (New), Breakfast & Brunch, Bars, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Pretty decent bar with 3 levels, good happy hour specials, and solid food.  The garlic fries are very good, with a nice crispy and flavorful exterior and a chipotle mayo dipping sauce.  The pulled pork nachos are also a great pick if you are looking for something slightly more savory and, well, massive.  The pork is very tender and juicy, and complemented nicely by the pico de gallo.  They also have lamb chops but you need to order a minimum of 3.  They weren't bad but definitely not the best that I have had, by far.  The bar has your usual selections as well as a banana bread beer, which was interesting.  The ambiance is fun and relaxed, so it's great for grabbing a few drinks and/or a casual dinner.",
+        "date": "2014-08-21 02:36:26",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The Boureki and Flatbread are fantastic. The flavors just blend together deliciously. The hummus contains enough garlic to keep you safe in Transylvania but it was great with the pita triangles. My lamb however was very dry and tough despite the tasty seasoning. I requested that it be medium rare to medium and it was definitely mre than well-done. Service was friendly but alas the delicious appetizers and friendly server are not enough to trump the overcooked lamb. I will give 3 stars because our server was sweet and offered to give me another entree and because I just loved the Flatbread.",
+        "date": "2011-10-08 21:32:07",
+        "business_id": "mUIBtlWNPD7sz3rGGWQ1RA",
+        "business_name": "Kanella",
+        "business_categories": "Mediterranean, Food, Greek, Restaurants, Breakfast & Brunch",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "The sashimi sampler is a must. The fish is very fresh and beautifully presented and perfectly paired with seasonings. Try the special rolls too; I had a spicy tuna with spicy scallop topping and it was fantastic. Dont leave without getting dessert. The chocolate cake covered in coconut gelato is to die for. Quite literally too since it is a heart attack in a pretty package.  Well, just wait for me with an ambulance at the door, then.",
+        "date": "2011-08-22 05:20:07",
+        "business_id": "Bw0cpnfI-Y9QmjWzqS-oFg",
+        "business_name": "Izumi",
+        "business_categories": "Restaurants, Sushi Bars, Desserts, Food, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "It's your standard Irish pub with great drink specials and friendly bartenders.  Other than that, it has several screens for games, and is pretty spacious, partly due to the fact that it is never really packed.  I wouldn't mind coming here again but will not go out of my way, as there are countless bars like it in the city.  The music is decent if you like hip hop/top 40.",
+        "date": "2014-09-07 07:00:34",
+        "business_id": "eJ77e9lGxY3ArzaoDbHhYw",
+        "business_name": "Paddy Whacks Irish Sports Pub - South Street",
+        "business_categories": "Bars, Nightlife, Pubs",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "We came for a late dinner yesterday (kitchen closes at 9!) and were told that the menu was recently changed to an all-day brunch on Sundays.  I had the grilled (rare) Skuna salmon Caesar, which was great with olive croutons, finely shredded kale, and  grated parmesan-romano.  The salmon was perfectly seared and tender.  The super food salad was also great with nicely grilled, jumbo shrimp, fresh avocado, spinach, blueberries, quinoa, and almonds in a light citrus vinaigrette.  The duck hash was a nice, more decadent option, as well.  We split the hummus appetizer and it was a nice variation with braised beef and a great, lighted pan-fried and buttered puff bread.  The bread was very different but absolutely delicious.  The carrot cake with vanilla gelato was huge and very solid, as well.  It came with a strawberry compote on the side.  Service was great and you can't beat the ambiance!  Great for a date or a dinner with friends!",
+        "date": "2015-04-27 09:18:11",
+        "business_id": "oBhJuukGRqPVvYBfTkhuZA",
+        "business_name": "Square 1682",
+        "business_categories": "American (New), Breakfast & Brunch, Bars, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Appearances can be quite deceiving, as we know all too well from Macbeth. From the outside, this doesn't look like much but it is a treasure trove of authentic Taiwanese dishes that are simply too die for (or at least worth the Chinatown parking charge and rush hour traffic on the good ole I-76).  The Taiwanese beef noodle soup is the most popular dish, and is well deserving of its reputation.  Perfect on a cold day.  Also be sure to try the pork chops with the Shanghainese rice  cakes.  The basil/three cup chicken is pretty good.  Just stay away from takeout dishes because those tend to be well, takeout-like, for lack of a more precise description.  If you're in Chinatown, you need to stop by.  My family has been coming here for the past 17 years, and it is still one of our favorite restaurants.  I've brought friends from school here and even the Californians find this place to be authentic.  That, too me at least, says a lot.",
+        "date": "2010-04-11 03:22:52",
+        "business_id": "mCo2uVTTGYrEhRrkQW-CMw",
+        "business_name": "Empress Garden",
+        "business_categories": "Taiwanese, Chinese, Noodles, Restaurants",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "6s-g2vFu12OemhiK3FJuOQ",
+    "name": "Dave",
+    "review_count": 2388,
+    "average_stars": 3.8,
+    "reviews": [
+      {
+        "stars": 2.0,
+        "text": "I was with friends and had a good time but as far as the food in concerned, it was a disappointment. Nothing stuck out overwhelmingly positively. My chicken dish was buttery, undercooked, and bland, even for southern French. Service was average, and we were the only ones there on a Wednesday night!\n\nBlah. Underwhelming. Avoid.\n\nI might return for their happy hour. The decor is cool and casual, with an open space in the bar area. Beware of the jacked up prices though.",
+        "date": "2007-04-09 01:51:49",
+        "business_id": "5iuo1kvv0XZMS0bUOoLz2Q",
+        "business_name": "Bistro St. Tropez",
+        "business_categories": "Restaurants, French",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "If Twenty21 was still open, I'd be in like Flynn - for drinks, that is. The venue is tops, but cooking's not the best value, even though we were last there for a $30 Restaurant Week special. I chowed down on a terrine[1] and a homemade tagliatelle[2]. My friend's summer gazpacho looked better than my tagliatelle. Ah, regrets.\n\nDon't remember what I had for dessert - I lack a strong sweet tooth - but I somehow managed to sample all their desserts.\n\nThanks to the bevy of servers (Emmett, Geoffrey, Gordana, and Kourtnay) for pleasant service. Confusing with so many people, yes, but good.\n\n[1] That dish was made of saffron potato, roasted peppers, and boquerones, plus fried potato crisps, grilled scallions, piperade, and EVOO.\n[2] If you're curious: porcini mushroom fricassee, braised berkshire pork belly, and an arugula salad with aged balsamic - yes, this restaurant was buzzword-heavy.",
+        "date": "2010-08-25 14:38:35",
+        "business_id": "x2J-YIFeGZ-nsezzooVA9g",
+        "business_name": "Twenty 21",
+        "business_categories": "Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Not a bad bar tour spot as long as you keep the guestlist under control. No cover and reasonable prices make Jack a happy boy.\n\nWhen I was last there, it was so crowded on the ground floor that we were directed upstairs, where the situation was slightly better. Decor wasn't anything to write home about, but the bathroom was bright. There was plenty of seating, but tables and chairs aren't necessarily conducive to a bar tour, but that's not Black Sheep's fault. At least they didn't have TVs where we were - none I noticed, anyways.\n\nThanks to everyone for kindly providing me with shots! I'll be back to try their mac and cheese.",
+        "date": "2010-09-07 19:48:17",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "On the window, I read: \"Authentic Mandarin and Szechuan\" and thought, \"why not?\" and walked in. It was around noon, and crowded.\n\nJulia, Empress Garden's friendly owner, greeted me. We had a conversation on what was tasty and she ultimately recommended a Taiwanese noodle dish (C71 on the menu) to me, which I ordered to go. I mentioned that I've never been in her restaurant before, so when she said it was 24 years old, I was floored!\n\nMy dish of \"spicy\" (they weren't really spicy), dry Taiwanese noodles set me back $6.75, but kept me fed for hours. It was a generous portion of shredded string beans, salty soybeans, tofu, pepper flakes, pork (meat), bean sprouts, and white noodles. Did I mention it came out right away? Worth a try, stop in!",
+        "date": "2008-04-06 04:58:23",
+        "business_id": "mCo2uVTTGYrEhRrkQW-CMw",
+        "business_name": "Empress Garden",
+        "business_categories": "Taiwanese, Chinese, Noodles, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Imagine Godzilla devouring the United Nations headquarters. Eating at Sonam is like that.\n\nI was last here for a private party. It's conveniently located, with semi-convenient, non-free street or garage parking. Servers were on-point, smoothing over any problems. Tables were cleared from the dining room, so I didn't get to see its usual setup. In any case, the modest space works for a small group. For larger groups, make reservations.\n\nSonam is a tapas joint with a global influence: small plates, lots of choices like satay and rolls, some with a twist. There were surprises, like pears cradling soup, and I spied cracker sandwiches resembling S'mores full of goat cheese marshmallows and a sweet fig reduction - a bit of a let-down, but still a tasty treat. Did I mention their Asian chicken sliders, or the spring rolls stuffed with gumbo? They're all mmm-mmm good. (Their brunch menu is similar to their dinner menu, but has a huevos rancheros pizza I want to try.) Prices aren't cheap, but everything is made with love.",
+        "date": "2008-05-27 02:06:10",
+        "business_id": "4NjPz9bJzll1FMIi2bw8HA",
+        "business_name": "Sonam",
+        "business_categories": "Tapas Bars, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Pina's Pizza is a decent neighborhood pizzeria, not absurdly expensive, and worth a try.\n\nCalled our order in around 6:30 PM, and was told everything would take 20 minutes. We ordered two large pizzas topped with pepperoni, along with two orders of garlic bread ($22 total). We drove down the street to pick up our meal and I only had to wait behind one person. It was a weekday but I presume they get busier on weekends?\n\nThe pizza slices were pre-cut and greasy, as appropriate. Our pepperoni pizza was middle of the road: sauce was fine, pie not too crunchy (not too soft either), and ample toppings. The garlic bread (also pre-sliced) was garlicky buttery goodness, and the bread was on the softer side, covered in little garlic cloves. As a whole, our group was fed; I wouldn't hesitate to return to Pina's for pizza.",
+        "date": "2008-04-17 05:06:53",
+        "business_id": "qot32tHVWZpiJibLTwQGyw",
+        "business_name": "Pina's Pizza",
+        "business_categories": "Restaurants, Italian, Pizza, Seafood",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The bouncer was friendly and we didn't pay cover (it was early, a weeknight and/or they didn't charge that night). He checked our IDs and directed us upstairs.\n\n32 Degrees isn't terribly large. It was somewhat crowded inside, especially around one of the two bars. I was told a DJ from NYC was spinning so it was a special party. Oddly, everyone was crammed towards the VIP area. Picture this: 40% of the place crammed into a VIP area that you can't (and wouldn't want to) get into, and the other 60% milling around it. There was empty space towards the rear bar and bathrooms. Not much room to dance, and most folks were drinking.\n\nMy brief experience there was blah and it doesn't seem that 32 Degrees lives up to the hype I've heard; maybe this place is better on the weekends? It's not a bad-looking venue (the decor surprised me, actually) but the crowd wasn't there.",
+        "date": "2007-08-02 22:38:23",
+        "business_id": "Y9q3d7sF2k4FOxSBBHdJKQ",
+        "business_name": "32 Degrees Lounge",
+        "business_categories": "Lounges, Nightlife, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Pearl's menu is pan Asian, with a French influence. I find it hard to shell out for places that seemingly tack on the word \"French\" - for what you get, their high prices were a slight turn-off, but to each his own.\n\nI had the King Prawns ($12) soup (with pineapple and saffron, coconut milk, and jasmine rice) which was supposed to be hot and sour but tasted mellow. It was WAY rich but tasty overall. It was a good start since I could sit and work on the prawn (they were huge) while waiting for my entree. I also had the laquered pork ribs ($13) appetizer since I wasn't outrageously hungry. The ribs were covered in a tasty Indonesian soy sauce, grilled pineapples, and cilantro. The meat came off the bone (just the way I like it). (I tried the calamari salad too - the thin calamari slices were unusual and a pleasant surprise.)\n\nDid I mention that we shared a carafe of sake?\n\nOur friendly server Gena gave us recommendations, including to go for the dessert sampler when most of us couldn't decide (and/or didn't want to commit to an entire dessert).\n\nDish portions were reasonable, food came out quickly, but our dishes were only slightly above average overall. I wasn't \"wow'ed\" enough - maybe I'm jaded? On the bright side, the hip lounge music and their two fairly large bars rock. I love the venue and I'd return for drinks or a happy hour, not for food.",
+        "date": "2008-03-10 05:43:27",
+        "business_id": "m4lkv5ksqtdXvlIVIftH_A",
+        "business_name": "Pearl",
+        "business_categories": "Asian Fusion, Nightlife, Restaurants, Dance Clubs, Lounges, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Slainte is a modest sized venue across from 30th Street Station. We sat at the bar - the bar takes up a sizable portion of space, with flatscreens showing sports games. Reminds me of a less flowery Kildare's.\n\nIt was busy and took about 15 minutes for our orders to arrive. We shared a large portion of chicken tenders and fries, a small Caesar salad, and cheesesteak egg rolls (why do restaurants feel the need to make culinary monstrosities - to be fair, they DID taste like cheesesteaks). Overall, we enjoyed our fill of bar food.\n\nOur friendly bartender and server (Mike) got us a Hoegarden and a straight shot of Vladmir vodka. Based on our service, I'd return to Slainte for more drinks - check them out!",
+        "date": "2008-06-29 17:05:37",
+        "business_id": "c8rjE6NcfeyzLB_aU1GdMA",
+        "business_name": "Sl\u00e1inte Pub & Grill",
+        "business_categories": "Nightlife, Bars, Restaurants, Irish, Pubs",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Tandoor's lunch buffet is decent - everything tasted as it should. Of course, I sometimes pile spices on my food like there's no tomorrow, so perhaps I was unduly influenced. However, I'm pretty sure that I evaluated the food correctly, as my friend (herself a native of India) told me what to eat, how to eat, and the proper seasonings (including quantities) to apply.\n\nMind you, said friend and I ate at this small spot FOUR years ago (time flies when you're having fun), so take my comments with a grain of salt.",
+        "date": "2008-05-24 01:16:15",
+        "business_id": "N1ZXhAVzOzbyCBPEXTaUUw",
+        "business_name": "Tandoor Authentic Indian Restaurant",
+        "business_categories": "Food Delivery Services, Halal, Food, Restaurants, Buffets, Pakistani, Indian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "This just in: bouncers at 32 Degrees are still friendly, and still not douchey. Cover's still free too.\n\nThere's now a connection to Cuba Libre next door, in case you want to get your salsa dancing on, or have a mojito, but it isn't always open. Not sure why that is, and haven't investigated yet.\n\nPlace is still small, but the back seems larger. That could be due to the flatscreen? 32 Degrees isn't perfect if you roll deep, but it's still a fine place to start the night.\n\nI used the word \"still\" a lot, didn't I?",
+        "date": "2010-01-31 21:50:47",
+        "business_id": "Y9q3d7sF2k4FOxSBBHdJKQ",
+        "business_name": "32 Degrees Lounge",
+        "business_categories": "Lounges, Nightlife, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "This charming, traditionally decorated restaurant gets crowded, so arrive before or after the main dinner rush to take advantage of their parking lot. Pressing a red button on the table calls service. English isn't a strong point for some staff, but luckily for us, a friend spoke Korean and was able to communicate our complicated requests.\n\nThe kimchi version of their famous soon du bu ($9; soft tofu soup with beef and spiced cabbage) was damn good, sporting a decent kick and vibrant flavors. Served in a stone bowl with rice on the side, I cooked a raw egg in the light, but filling, soup to add texture. The kitchen go all out with the spices (I requested mine \"Very Spicy\"), but it was SO good I didn't care. (Next to me, my friend was dying - she can handle hot food, so maybe our bowls were switched?) Of the banchan, the cucumbers were a winner.\n\nJong Ja Jip has been recommended to me time and time again and I finally tasted firsthand why. It's an excellent value: our group of ten paid roughly $11/person. Highly recommended!",
+        "date": "2008-05-19 13:29:26",
+        "business_id": "QWqKTWQ2OiDgo3dzNkpung",
+        "business_name": "Jong Ka Jib",
+        "business_categories": "Korean, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "On a flight my seat mate told me about Pub & Kitchen. The name stuck, so I grabbed a friend and gave it a go.\n\nA \"no reservations\" policy meant a small wait before we were seated.\n\nEven during the day, the Pub's darker than I'd like, but there's sidewalk seating for the nyctophobic. Besides a gigantic bar, this restaurant has comfortable stylings, subtle rabbit and pig imagery all about. Despite the crowd inside and out, server Laura managed to keep us buzzed.\n\nWe shared fresh kusshi oysters (at market price, which we all know is scary markup), before moving onto a bowl of Thai basil mussels. For an entree, I had a pan-fried pork cutlet, not bad, not too dry, with a decent amount of flavor. Table bread was so-so, but we spent more time on their other yeasty treats: a Yards \"brawler\" pub ale and a pint of Sly Fox served nicely.",
+        "date": "2010-09-08 20:01:50",
+        "business_id": "7lwe7n-Yc-V9E_HfLAeylg",
+        "business_name": "Pub & Kitchen",
+        "business_categories": "Restaurants, Pubs, Food, Bars, American (New), Nightlife",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This eatery isn't much larger than a walk-in closet, but bright walls, flowers and candles - and the fact that they're a BYOB - make this an affordable date spot. Due to its size, you'll never be ignored by the friendly staff, even when there's a crowd.\n\nThe kitchen works fast, turning out piping hot Laotian and Thai dishes in record time. There's the usual assortment of curries, seafood, and rice plates. Fresh spring rolls ($3.95; vegetarian; cash only, last I checked) come with a side of sweet plum sauce and a pleasantly tart fish sauce. Try the pad kee mao ($10.95; with beef): While it could be spicier and the beef is almost dangerously dry, the sauteed rice noodles are moist, and the mix of onions, carrots, broccoli, chili peppers, bean sprouts, and basil give it flavor and color.",
+        "date": "2010-07-29 03:23:58",
+        "business_id": "14ZGwnDyydXdSBsLXpSUrA",
+        "business_name": "Vientiane Caf\u00e9",
+        "business_categories": "Vietnamese, Restaurants, Food, Thai, Coffee & Tea, Laotian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I've had so much Capogiro Kool-Aid that they'd have to spit in my gelato to break my heart.\n\nLuckily no one did.\n\nThis Capogiro is as streamlined as its siblings, with wall-to-wall windows. Last I was there, about half the place was full of students abusing their free Wi-Fi, which suited us just fine. Unlike other Capogiros, this one sports more seating, plus a bar.\n\nBartender Jo expertly served my associate and I, keeping our glasses full and bringing us popcorn. Don't know if I ever got any gelato in my drinks, but their happy hour specials made me forget, and how! Starting with their version of the citywide special ($6) - a smooth 16 oz. Narragansett with a shot of whiskey - we knocked back shots before winding down with a spiked Americano ($4), perfect for the light evening chill.",
+        "date": "2011-02-20 22:36:38",
+        "business_id": "A0F-h3xJm_6gHDKcDQwSrQ",
+        "business_name": "Capogiro Gelato",
+        "business_categories": "Pizza, Restaurants, Gelato, Coffee & Tea, Ice Cream & Frozen Yogurt, Food",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "EbzIOck2feoZrGxRjyPDyw",
+    "name": "Vichet",
+    "review_count": 308,
+    "average_stars": 3.75,
+    "reviews": [
+      {
+        "stars": 4.0,
+        "text": "3604 Chestnut Wawa, you've really worked on your game. I dunno if I caught you in a bad couple of years last time I reviewed, but you are now my Wawa of choice for when I've had six too many and want my Italian with everything on it, plus pepperoni.\n\nGood on you.",
+        "date": "2016-01-04 20:48:52",
+        "business_id": "ppFCk9aQkM338Rgwpl2F5A",
+        "business_name": "Wawa",
+        "business_categories": "Restaurants, Automotive, Delis, Gas Stations, Food, Coffee & Tea, Sandwiches, Convenience Stores",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "There are two times that I go to Wawa - lunchtimes, and \"I need a sandwich for all these beers I already drank\" times.\n\nFor lunch times, Wawa at 38th and Spruce gets a solid 4 stars. Quick service, they never mess up orders, and you can get outta there in less than 10 minutes. Awesome.\n\nIf it's after last call though... abandon all hope, ye who enter here.\n\nSeriously. I dunno who manages the shifts here, but they've got to get more people working after last call. You're on a college campus. Big bucks are to be made selling jerks like me sandwiches and munchies at 2:30 AM. \n\nMultiple times, I've come in here, alone or with friends, and had to wait at least 30 minutes for even one of us to get something as simple as chicken strips over mac and cheese.\n\nEven if you want to just grab something pre-made (and you don't, at 2 in the morning, when everything pre-made is now almost a day old), you'll be waiting in line to check out for at least 10 minutes because of all the people complaining about how long their food is taking.\n\nI love Wawa so much, that I keep forgetting that \"hey, let's get some god damn Wawa\" after 2 AM is ALWAYS a bad idea, and I keep making the same mistake. \n\nFor that, I give it two stars. Average them out, and this place is a solid three.",
+        "date": "2014-01-28 21:59:12",
+        "business_id": "RrqRin8BYGrTlJbCDwtLzA",
+        "business_name": "Wawa",
+        "business_categories": "Delis, Gas Stations, Food, Convenience Stores, Restaurants, Automotive, Coffee & Tea, Sandwiches",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Two words: 5 for 15 beer can ice bucket late night happy hour special.\n\nOkay, that's not two words. Like, not even close. Way off. But it's because my brain broke from drinking 5 beers for 15 dollars. You try counting words accurately and writing un-awkwardly constructed sentences after that. Jerk.\n\nAnyway, this place is kind of awesome. They've got kickass beef jerky, made in house, and lots of neat bands and such come through and play upstairs. The crowd level is good - never packed to the gills in my experiences there, so there's room to mingle and dance, while at the same time having a good 'ole party atmosphere.\n\nOther than that, the place has bright, cheery bathrooms (a big plus for when you want to get hammered in comfort), and a really great atmosphere in general.\n\nBut yeah, again - 5 beers for for 15 bucks. Doesn't get much better than that.",
+        "date": "2014-09-02 15:05:53",
+        "business_id": "7mpYTDb24SywNMRn3yeakQ",
+        "business_name": "The Twisted Tail",
+        "business_categories": "Event Planning & Services, Whiskey Bars, American (New), American (Traditional), Venues & Event Spaces, Bars, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "In my heart of hearts, I am a day drinker. Or maybe just an alcoholic. Probably just an alcoholic.\n\nI'll get the obvious out of the way:\n\nFavorites:\n- Coconut gelato\n- Avocado-lime gelato\n- Lime sorbetto\n\nNow for the secret Konami code that really puts this place in high gear for me:\n\nDear Capogiro,\n\nI love your full bar. I love that gelato is an option, and not a requirement. I love that you are situated right on Walnut, where I can watch all the undergrads stroll by on my lunch break, and judge the sh*t out of them - Cornell-4-lyfe.\n\nMost of all, I love that you were one of the spurs of life that came into U-City, a place that I'd left 7 years ago, and returned to 2 years ago, to find that people cared about the neighborhood again.\n\nYou're way better than the old crappy movie theater that used to be where you are. Anyone remember that place? Back in... 1998? Damn, UCity has come a long way.\n\nYour fan,\nVichet\n\nPro-tip: They have two taps, and are frequently rotating them, in addition to numerous bottles and cans. They have a respectable wine list for an establishment of their size. Grab a drink, and go outside to enjoy what has become a pleasant view of the west end of Penn's campus.",
+        "date": "2010-12-22 20:31:33",
+        "business_id": "A0F-h3xJm_6gHDKcDQwSrQ",
+        "business_name": "Capogiro Gelato",
+        "business_categories": "Pizza, Restaurants, Gelato, Coffee & Tea, Ice Cream & Frozen Yogurt, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Remember all that shit I said about Time having some of the best live music in Philly? Yeah, they share that little honor with this place.\n\nEVERY time I come to Twisted Tail, I have a ball. A drunken, shuffleboard and dancing kinda ball. Sometimes darts. Mostly dancing.\n\nI will say that their drink prices are very reasonable, and their food is very good... and slightly less reasonable. Don't expect to be stuffed, but definitely expect to enjoy everything that comes out of their kitchen.\n\nAs for the drinks... whoowhee, you really can't go wrong, but get the Thyme After Thyme. \n\nSo many Time jokes. What am I, the Doctor?",
+        "date": "2016-07-12 15:25:57",
+        "business_id": "7mpYTDb24SywNMRn3yeakQ",
+        "business_name": "The Twisted Tail",
+        "business_categories": "Event Planning & Services, Whiskey Bars, American (New), American (Traditional), Venues & Event Spaces, Bars, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Service with a smile, and various types of ammunition!\n\nWas here with a shooting club for my first ever experience at a firing range. The staff was very professional, personable, and extremely helpful for someone like me who only knows about guns from movies and Counter Strike - that is to say, the person you least want holding a gun anywhere near you.\n\nThey threw in a quick helpful class instructing us on how to check, load, hold, aim, and fire the assortment of pistols they provided us. \n\nThey set out 5 guns for our group of 11, one per lane, and had us rotating through them to get some experience on each. They even put out an extra .22 with a laser sight to help us novices get a more concrete feel for the barrel sights.\n\nIn size order, I shot a .22 semi, a 9mm semi, a .38 revolver, a .40 semi, and a .45 semi. I'm happy to say that I can hit any man sized stationary target  from 25 ft with 100 percent of what I have loaded. I was told it wasn't bad for someone completely new.\n\nI guess Counter Strike was good for something. The whole thing came down to about 15 bucks for equipment rental, and 20 bucks for ammo for each of us. We all shot 60-80 rounds, so it was a good 'ole time.\n\nPro-tip: Call ahead and ask about a class! Otherwise, you're free to just come down and take an open lane.",
+        "date": "2011-03-29 19:07:52",
+        "business_id": "CPpZTp1Lezhsfan8SgJs4Q",
+        "business_name": "Firing Line",
+        "business_categories": "Gun/Rifle Ranges, Guns & Ammo, Shopping, Active Life",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "*Channeling William Shatner*\n\nHAAAAAAAAAN!\n\nI've tried Manayunk. That was insane. I told myself I could only come back once in a blue moon, lest I gorge myself into oblivion.\n\nAnd then, biking to Center City from my house, I discover that you've soft opened a new location FOUR BLOCKS FROM WHERE I LIVE.\n\nHow could you do this to me?\n\nI must honor it as a great gift. I must fear it as an infernal curse.\n\nA tasty, peppery, punch someone in the face because it was so good kind of curse.\n\nYour food makes me want to give up my imaginary first born (because, let's face it, who would ever have a kid with someone like me?) so I can imply, but not actually say, some sort of poorly conceived joke about your dry fry style dishes involving said baby.\n\nYes. That's what your food does to me.\n\nSuper friendly, quick service. A respectable beer/wine/cocktail list, and a beautiful space that used to be home to a restaurant that I've sadly never been to (MidAtlantic). This is all I need any day of the week.\n\nSo, it's obvious that this place is a regular staple for me now.\n\nBring 3 friends for lunch. Get the dan dan noodles, or cold sesame. Also, spicy cucumbers. Then add a dry fry dish, or their scallion style lamb, or whatever the hell you want, and everyone gets to eat tons of delicious Szechuan, face-melting awesomeness for about 10 bucks a head.\n\nI still need to do some sort of food challenge here, where I eat the spiciest three things they can create. Who's in?\n\nNo baby sacrifice required.",
+        "date": "2012-07-17 20:14:00",
+        "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+        "business_name": "Han Dynasty",
+        "business_categories": "Restaurants, Chinese, Szechuan",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "Whenever I end up at this one, I always wish I'd just gone to the one on 38th.\n\nThe staff here is really nice, so it's tough for me to be this critical.\n\nBut, the bottom line is that they're frequently out of stuff behind the deli, they're often understaffed behind the deli, there's a lot less selection here than the one at 38th, and almost every time I come here, something I wanted or needed was not available.\n\nThere have been times - not even that late at night (let's say 9:30 pm), where I'd be on my way home, and I'd stop in to get a sandwich. The sandwich would take 20-30 minutes because there's only one guy manning the deli and tons of college students getting study orders because that's what college students do.\n\nMaybe it's just me and my set of experiences over the last couple years. Hope it improves because the 38th location is out of the way for me any time I'm not at work.",
+        "date": "2014-01-31 18:22:41",
+        "business_id": "ppFCk9aQkM338Rgwpl2F5A",
+        "business_name": "Wawa",
+        "business_categories": "Restaurants, Automotive, Delis, Gas Stations, Food, Coffee & Tea, Sandwiches, Convenience Stores",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "I stumbled on/into the Black Sheep a couple weeks back on a night out because we'd all been wanting to try a few new places. Only when I'd gotten inside and realized it was actually a pretty neat place did I remember it's supposedly owned by the same folks who run my favorite pub in the city, the Dark Horse.\n\nAnyways, this place has a similar vibe, but is infinitely more crowded. Another weird thing, I've been heckled by more than one Yalie on more than one occasion here. Not to hate on Yale, but damn, dudes - take it easy.\n\nThey've got your standard beer selection, and plenty of reasonably priced mid/upper-mid shelf liquor, so get yourself something classy, but quick! I guarantee you there are 5 or 6 people waiting behind you for a drink.\n\nPro-tip: I fully recommend this place for, and I will be trying it on an off-night. The weekends are just too packed.",
+        "date": "2010-12-11 22:16:14",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Favorite cocktail bar in the city. And that means a lot, because I'm an alcoholic.\n\nShout out to Miles, my main man behind the bar. He makes a mean Hemingway. Also, Eastsides. Don't know what they are? Order them. In quantities of two of three, and then stumble home, forget what you learned, and then come back, and in greater numbers.\n\nYou really can't go wrong here, so try it out.",
+        "date": "2016-07-12 15:31:18",
+        "business_id": "tzVLTQNUtiCAxUZmEuF0vQ",
+        "business_name": "1 Tippling Place",
+        "business_categories": "Bars, Nightlife, Lounges, Cocktail Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Good burger. Good service. Good drinks. Good ambiance. That's about all I needed to rate this place at a 4.\n\nI would, however, never come here if it were crowded. The feel of the place would be ruined by more than \"regular crowd\" sized attendance. Then again, who knows? Maybe the place turns into a gigantic dance party on Fridays and Saturdays and it's actually awesome.\n\n... can someone tell me if that's actually the case?\n\nThe only downside is that their beers aren't full pints, unless I've been ordering the wrong beers. It's the old \"tall-skinny-glass\" trick. Ah, well. I probably shouldn't drink so much anyway.",
+        "date": "2013-05-27 18:30:44",
+        "business_id": "7lwe7n-Yc-V9E_HfLAeylg",
+        "business_name": "Pub & Kitchen",
+        "business_categories": "Restaurants, Pubs, Food, Bars, American (New), Nightlife",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "A lot bigger than it looks, some pretty good local brews on tap. Oh, and very very college-y. But not in a horrible way, I guess.\n\nBut I've done this all before - in Ithaca. Kinda past that scene, personally. But, for reasons I won't go into right now, I found myself in this place with a group of my younger friends, getting shitfaced on a Thursday night.\n\nAnyway, being the only one with a job, I buy us a round of shots. They were stupid cheap at like, 4 or 5 bucks each. I don't remember. All I know is by the end of the night, I'd only spent about 50 bucks. That probably made me a high roller in the joint.\n\nDespite that, the bar staff is incredibly patient, surprisingly knowledgeable when it comes to \"old people\" drinks, and really quick. I suppose they'd have to be to survive the daily onslaught. The beer special that night was \"crappy light beers for a dollar,\" but the main bartender offered to just upgrade me to a bigger cup of Yuengling or Kenzinger at no extra cost. I think he recognized that I was a little older than the average college student. Thanks, guy!\n\nAlso, this place is cheap as hell. Which I suppose is why there are so many students every night.\n\nSo, congrats to you, Blarney. You were a lot better than I expected. I might even go back when there aren't so many students around. Summer's upon us!",
+        "date": "2012-04-25 14:26:58",
+        "business_id": "mpVZG520RL-K1YeQi55ZPg",
+        "business_name": "The Blarney Stone",
+        "business_categories": "Burgers, American (Traditional), Karaoke, Pubs, Restaurants, Nightlife, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I like you, 1 Tippling. \n\nYou always have room for me, it's never too crowded, the couches are comfy, the drinks are cold and well made, and, well, it just feels right.\n\nI think that you've got what a lot of other craft cocktail establishments have been eschewing in favor of keeping more control over the environment. Which, isn't necessarily a good or bad thing on yours or their part. But it IS different. And much more social.\n\nYour doors are always open, there's no one apologizing for lack of space (somehow, there rarely is a lack of space) to seat you, and the staff is very accommodating of you moving to other tables as they open up and your group gets larger.\n\nThat said, the environment here is that much less intimate. But, I'm an extrovert, so who cares?\n\nTippling Place is a spot where you can drink overly complex cocktails and ALSO maybe meet strangers without feeling like you're intruding.\n\nA+ for you, 1 Tippling Place.",
+        "date": "2013-05-14 15:42:24",
+        "business_id": "tzVLTQNUtiCAxUZmEuF0vQ",
+        "business_name": "1 Tippling Place",
+        "business_categories": "Bars, Nightlife, Lounges, Cocktail Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Finally had a chance to make it out here, now that my brother has moved across the street. I'm kicking myself for not making the trip earlier.\n\nIn Riva's location is kind of perfect for an idyllic, Summery, outdoor scene. The kind guys like Eakins might paint if he were born in Philly's gritty 60s and got tired of looking at the US 1 overpass ramp looming above him. Whatever, I think it's a great looking location, so screw you, Eakins' ghost.\n\nThis place fills a nice Italian tapas niche that I didn't know needed filling, but when I can get a pizza, salumi, formaggi, a soup, and a couple of beers to share with my lady, and the tab comes out to less than 60 bucks after tip? Score.\n\nI've only been making pizza for a few years, but I'd gotten pretty good at it. I've got nothing on this place. The crust on these bad boys makes me want to punch every person on the face who doesn't wolf it down to the last crumb. Seriously. I had a pizza with pesto, pine nuts, goat cheese, and arugula, and it made me want to go get all of those things, throw them in the garbage, and then go to In Riva again because I might as well give up on my pizza making.\n\nAlso, for 18 bucks, you get two meats and two cheeses on a board with bread and various fixings. I'm used to tapas, so I'm thinking it will be small. Well surprise, asshole, In Riva's giving you enough meat and cheese for almost a whole meal by itself.\n\nFinally, and this was really clutch because I was dog-sittng for the day, they have a doggie section. My nephew Pep is a tiny 4 lb runt of a rat terrier, so the enclosed dog yard, complete with tiny, dog sized evergreen bushes, was a giant draw for him. He's a chicken though, so he mostly hung out in my hoodie and barked at things that he thought were out to get him, like the welcome mat. It was a nice touch, especially since I grew up knowing the Cavalieres and always thought they were a cat family.\n\nKnow what's an even better touch, though? Street Fighter 2 in the basement. I got a pocket full of quarters and a heart full of hadoukens. I'll definitely be back, just for this option.\n\nGood to know a fellow Lancer's spot is doing well, and glad I finally checked it out!",
+        "date": "2015-05-21 13:41:25",
+        "business_id": "BWITd9JUXP3gSi1z3Y-z8g",
+        "business_name": "In Riva",
+        "business_categories": "Italian, Food, Nightlife, Pizza, Bars, Cocktail Bars, Beer, Wine & Spirits, Restaurants",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "jK_SY5ciS1IL82Cf3Ed1_w",
+    "name": "James",
+    "review_count": 378,
+    "average_stars": 2.44,
+    "reviews": [
+      {
+        "stars": 5.0,
+        "text": "This place is just the greatest.\n\nFirst, the correct current address is 33 S. 43rd Street, between Chestnut and Walnut. Don't go to the old address like I did!\n\nThis place is basically a hole in the wall but they have EVERYTHING, and at great prices. Every time I have called for something they have it. I bought an external hard drive dock that has input for laptop AND desktop, both SATA *AND* IDE, for sixty dollars. It works like a charm.\n\nToday I'm going in for an external CD burner with lightscribe capability, for $40!\n\nPlease don't get impatient if there is a language barrier. There seems to be an older Asian man, and a younger one, and the older man may have some communication issues, but you can tell he is trying and if you are patient with him he will be patient with you!!!!!\n\nI can't recommend this place enough when it comes to your computer item needs.",
+        "date": "2013-03-18 17:53:51",
+        "business_id": "qT37Sz23qPG08y9Q97QVnw",
+        "business_name": "Penn Micro Center Inc",
+        "business_categories": "Local Services, IT Services & Computer Repair, Mobile Phone Repair, Computers, Professional Services, Shopping",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "This place is easily overlooked, which is a damned shame. This afternoon I had an hour to kill until the new philly aids thrift location opened at noon. I was sort of exasperated because there were no super nearby coffee places I could chill at... Until I spotted here.\n\nSomewhat unassuming from the outside, I realized I have always assumed it was exclusively a teas and accessories retail shop. Inside it is spacious and comfortable. The temperature was perfect on a hot summer day.\n\nThe selection is minimal, but if you want quantity and not quality, go to starbucks. A variety of delicious looking pastries and wraps (some vegan) caught my eye, but I settled on the Indonesian chicken salad; a mix of chicken, celery, cabbage and carrot. HOW good can food BE?? Wow.\n\nI also had the berry tea - a green tea/berry puree mix with no added sugar. The gorgeous and incredibly friendly barista seemed genuinely happy to be there; and she practically SPRINTED downstairs and back to get me a fork, smiling all the way.\n\nThe tea was amazing. I copped a squat on a super comfy couch and spent forty relaxing minutes in culinary heaven.\n\nI work four blocks from here, and I will be back EVERY DAY. I have found my new hangout spot.",
+        "date": "2011-06-10 21:57:32",
+        "business_id": "ZyyExneJPXjci7yc2CGAPQ",
+        "business_name": "Cups & Chairs",
+        "business_categories": "Coffee & Tea, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "I like pizza. I like generic franchise pizza. Hell, I recently won a free year of pizza from Papa John's as a runner up in a big contest they had.\n\nI like Pizza Hut's stuffed crust pizza.\n\nThere. I said it.\n\nSo get past your hate of the CONCEPT of Pizza Hut, and just look at this review from the POV of someone who actually likes the product. Because I do.\n\nSo...\n\nTHIS Pizza Hut is a disaster. For 3+ years I have had nothing but problems with them, but I keep coming back because they're the only one in town. The usual issue is that I order pineapple and they put on pepperoni. But there's other issues. \n\nSometimes it takes 2 hours to deliver because they're constantly under-staffed. \n\nOn numerous occasions they run out of a certain type of crust, so they call me and tell me they can only make another kind; the problem is, if I've ordered online, my credit card has already been charged, so if I say \"No, I don't want thin crust, I ordered stuffed crust,\" it won't stop my card from having $20 taken off of it until 10 days later when the charge is reversed.\n\nThey also constantly forget to include side orders and drinks, and then the driver has to go back to the store, and come back to drop them off, which makes the driver pissed...which makes me uncomfortable.\n\nBut...I keep ordering, because, like I said...it's the only Pizza Hut in town.",
+        "date": "2010-09-21 16:08:23",
+        "business_id": "T8lxi3V2avTVXCanVkAFNg",
+        "business_name": "Pizza Hut",
+        "business_categories": "Italian, Chicken Wings, Restaurants, Pizza",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "The main offices of The Mazzoni Center (everything but their medical offices) moved to this address about a year ago.\n\nAt this location individuals can visit their case workers and the food bank. It is also the location for most of their administrative employees.\n\nThe service with which I have experience, however, is their counseling program. I have been seeing a therapist through Mazzoni for nearly two years.\n\nUnlike their medical services, which are on a sliding scale and can even be totally free, theraputic services must be paid for out of pocket or by insurance. (Luckily they do take public insurance.)\n\nAdditionally, you MUST identify as gay, lesbian, bisexual, trans gendered or questioning in order get mental health services here. The medical offices see anyone because they receive funding from the Federal government; the counseling offices do not.\n\nI have found therapy here to be very rewarding, but of course successful therapy relies on finding a good therapist. What's great is they have counselors who specialize in things like addiction, eating disorders and trans counseling, all of which are prominent issues in the GLBTQ community. Also, knowing that your sexuality is a non-issue can be very comforting to those who really need help.\n\nI would advise anyone who is considering it to check into the mental health services at Mazzoni. Know, though, that there can often be a waiting list to begin seeing a therapist. I waited two months...",
+        "date": "2010-12-30 12:12:11",
+        "business_id": "yooufdsf3eAVq_9RQNSDJA",
+        "business_name": "Mazzoni Center",
+        "business_categories": "Local Services, Community Service/Non-Profit, Health & Medical, Doctors, Family Practice, Medical Centers, Counseling & Mental Health",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "Called tonight because the website said they couldn't deliver, but COULD take carry out. I was told the manager shut down online orders because \"For real real, all we have right now is large thin crust, and wings.\"\n\nWow.",
+        "date": "2011-01-23 01:48:36",
+        "business_id": "T8lxi3V2avTVXCanVkAFNg",
+        "business_name": "Pizza Hut",
+        "business_categories": "Italian, Chicken Wings, Restaurants, Pizza",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I really dug this place. I just wanted somewhere to go in the late eve (after 8) with comfortable seating, coffee and wifi. The place is gigantic, warehousian even. There is ample seating and I can't even imagine this place being totally full though perhaps during the daytime with the rush of students...? They do have a rule that you must share your table if someone needs a seat, and there are a lot of four-seaters so if it IS busy, don't expect to spread out your entire briefcase.\n\nI admit I only ordered a simple medium roast coffee, but it just fine. No better or worse than anywhere else. The wifi was great, speedy and useful and I didn't get hassled by the staff for sitting with one coffee for 2 hours (though to be fair, it was only about 15% full so they hardly needed the space.)\n\nThe only downside to me is the music; I didn't find it too loud as others have complained, but I did find it boring to the point of distracting. It was this kind of horrible mix of trendy and \"wedding reception\"; IE: a Radiohead song followed by \"Walking on Sunshine\"... I would have almost preferred something instrumental or jazzy. Still, a small price to pay!",
+        "date": "2010-11-06 02:29:34",
+        "business_id": "eFvzHawVJofxSnD7TgbZtg",
+        "business_name": "Good Karma Cafe",
+        "business_categories": "Food, Cafes, Coffee & Tea, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "The Mazzoni Center for Community and Family Health, often just called Mazzoni Medical, is one part of the bigger Mazzoni Center, an LGBT health organization which provides a huge number or programs for gay, lesbian, bisexual and transgendered people - but also anybody (including you straigh ttypes) - with an emphasis on those living with HIV and AIDS.\n\nThere simply aren't a lot of places like this, and those living in Philly are blessed. Mazzoni itself has a food pantry, case workers, niccotine addiction programs, therapists...it's just all there. And for those with no money, it's free.\n\nBut this listing is specifically for the Dr.'s offices. So here's the deal:\n\nIf you are someone with no insurance, no income, NOTHING to your name, you can walk in the door at Mazzoni Medical and be treated for free. Repeatedly. They ask for a minimum $5.00 payment, but if you can't even afford that, you don't have to pay it.\n\nWhen I walked in the door I had nothing, and my doctor managed to help me get insurance and treatment. He is a good Doctor (I won't name him,) kind and friendly and very professional.\n\nSo that's the good news: if you need medical help, they can give it to you, and it's quality service in a NICE office - not ghetto or fitlhy or \"government' - with NICE people.\n\nNow here's the bad news: no matter how clean and well decorated and professional they are, the need outweighs the supply. That means you can expect to have a hard time getting through when you call in for an appointment. It means they ONLY take appointments on the Friday preceeding the coming week. (IE: you can't schedule 2 weeks ahead, or call in for the next day.)\n\nIt means that often times things are forgotten or shuffled over because they have SO MANY patients. It means that they try their best, but sometimes GETTING their excellent care can be a major hassle.\n\nSo there it is, the good and the bad. For those with a need, this is the place to go. And if you DONT have that need, but are patient, you should come see the docs at Mazzoni anyhow, because your patience will pay off.",
+        "date": "2009-05-09 19:56:50",
+        "business_id": "yooufdsf3eAVq_9RQNSDJA",
+        "business_name": "Mazzoni Center",
+        "business_categories": "Local Services, Community Service/Non-Profit, Health & Medical, Doctors, Family Practice, Medical Centers, Counseling & Mental Health",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "I was the first to write a review for this place, but sadly I must update it with a major downgrade on my rating.\n\nThe last two times I bought items here they didn't work properly. An external lightscribe DVD burner stopped working after a month, and a USB adapter to read hard drives externally never worked properly at all.\n\nThe final straw for me was a visit a week ago when I needed a small wire from inside my laptop soldered, and they wanted $25 for the service. I said no way and I bought a soldering iron from Wal*Mart for $8 and did it myself.\n\nSo, they seem to have gone downhill unfortunately. :(",
+        "date": "2015-11-11 22:17:49",
+        "business_id": "qT37Sz23qPG08y9Q97QVnw",
+        "business_name": "Penn Micro Center Inc",
+        "business_categories": "Local Services, IT Services & Computer Repair, Mobile Phone Repair, Computers, Professional Services, Shopping",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Do you like great shows starring talented funny great people in shows? You can't go wrong with \"The N Crowd\", and that's a science fact.\n\nThey are the longest running improvisational group in the history of the United States, having gotten their start in 1837, under their original moniker \"Thee Enn Chums\". Since then they have absolutely perfected the craft of improvisational game play.\n\nImagine if the games from \"Whose Line is It, Anyway?\" came to life right before your very eyes, with full nudity and weapon demonstrations! Wouldn't that be cool?\n\n\"The N Crowd\" is basically that, minus the games.\n\nIn all seriousness, these folks have been going for over a decade with a rotating cast that is currently at it's peak. You're in for a great show of games fueled by audience suggestion with some of the best comedic talent on the East Coast.\n\nTheir new and current space at the Adrienne Theater is ideal for their highly physical performances, and at $15 a ticket it's a bargain for a show that will only ever happen once because it's totally improvised!\n\nSo check it out already.",
+        "date": "2019-10-19 02:27:28",
+        "business_id": "rjuWz_AD3WfXJc03AhIO_w",
+        "business_name": "The N Crowd",
+        "business_categories": "Performing Arts, Arts & Entertainment, Nightlife, Comedy Clubs",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I don't know what's gone on to make Olly so much better than my first visit, but SOMETHING had changed and it's a GOOD change.\n\nI just recently moved to live two blocks from here and I thought I would give Olly another try. During the pandemic they have a few outdoor tables, so a few days ago I came by for lunch. My server - much like last time nearly a year ago - was incredibly nice and attentive.\n\nI ordered iced tea, started with the fried green tomatoes and then had the mac and cheese with a grilled chicken breast on top.\n\nSo I have to be honest and say I wouldn't have the FGT again. There was just something not right about them. As someone who grew up in Louisiana, these are just not traditionally prepared and I know they're going for a kind of modern hipster take on most of their food, but they just weren't \"right\" for my tastes.\n\nThe mac and cheese however was really great. It *IS* a very, very small portion for the price ($15), so just know that going in. The added chicken breast made it feel more like a real meal.\n\nI came in again today and ordered the same entree, but this time I decided to be a weirdo and have the peach cobbler as an appetizer. Again, I really didn't like it, but I'm not saying it's bad. It's just their attempt at a modern take on the dish which for me wans't enjoyable (the fruit really had no flavor); the ice cream on top was actually the best part.\n\nThe weird thing is the mac and cheese tasted TOTALLY DIFFERENT this time, like literally it was like a different dish entirely, but it was still really really great. And again they made the chicken just how I like it.\n\nOne thing to note: they are putting an automatic gratiuity of 20% on every check. Now normally I am not a fan of automatic gratuities (they are in fact not enforcible and if you feel genuinely like something went really really WRONG because of your server you have ever right, legally, to demand they take it off of your check.)\n\nBut during pandemic times 20% is the bare MINIMUM you should be tipping a server. TBH I think 40% is more acceptable. If you can afford to eat out you can afford to reward people who are risking their fucking lives to pamper you.\n\nSo on both occasions I tipped cash on top of the automatic 20%.\n\nAs just a last thing that is a point of interest... lanternflies. They are everywhere, but for some reason they plague this corner. No less than ten - that's not an exaggeration - landed *on my body* during my meal today. And one on my actual plate. That's not the restaurant's fault, but you should be prepared to deal with it.\n\nAll in all Olly's had just so dramatically completely improved their food from when I first visited. Even when the dish isn't something I personally love, it's still clearly high quality food prepared the way they've designed, and you can't fault them for that.",
+        "date": "2020-09-27 21:55:54",
+        "business_id": "cLlBDZxYJ1dt1JgMuZnXew",
+        "business_name": "Olly",
+        "business_categories": "Pizza, Food, Bagels, Sandwiches, Comfort Food, Breakfast & Brunch, Burgers, American (New), Nightlife, Bars, Wine Bars, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "I really wish I could give this place a better review. I'm constantly NEAR here but only just finally got a chance to go in tonight for dinner.\n\nFirst things first, my server - there was a pair, both young women, one named Emma - were very nice. Attentive, sweet, friendly, couldn't have been more grateful.\n\nMy meal was less successful.\n\nI started with their pretzel, which is $9 and comes with a cheese dip. It was burned on the top. Like literally the top crust of it was burned black. Beyond that it was really not very special in terms of a pretzel, something I would expect to pay $4-5.\n\nThe real disappointment though was the lasagna, at $23. It's a hefty portion, with bolognese, sauteed spinach and a piece of foccacia. The first weird thing is the spinach is not incorporated INTO the lasagna. It's just tossed on top. But beyond that, the preparation of the dish left it incredibly uneven.\n\nThe top noodle was burned HARD. Like, it was an inedible noodle, charred black around the edges. Yet somehow there were portions toward the bottom edges that were actually cold?\n\nI can't say that flavor wise it wasn't tasty, and again, it was gigantic, but because of the way it was cooked it felt like it was numerous temperatures in different sections. For $23 I would have liked something prepared with more care.\n\nI probably wouldn't come back here just because of how disappointing the food was, which is a shame because it's a really cute place and again, my servers were super duper lovely and kind.",
+        "date": "2020-01-24 02:28:04",
+        "business_id": "cLlBDZxYJ1dt1JgMuZnXew",
+        "business_name": "Olly",
+        "business_categories": "Pizza, Food, Bagels, Sandwiches, Comfort Food, Breakfast & Brunch, Burgers, American (New), Nightlife, Bars, Wine Bars, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "In the 9 years since my last review this place has gone downhill.\n\nEvery time I've come in in the past year the person behind the counter has been surly and unpleasant.\n\nI also came in today and was charged extra for my bagel selection because it was chosen as the \"bagel of the day.\" So literally, there's nothing different or special about this bagel, but because they arbitrarily chose the one I wanted as the \"bagel of the day\" it costs more than the rest of the bagels. What a fuckin' racket.",
+        "date": "2019-06-18 14:03:14",
+        "business_id": "eFvzHawVJofxSnD7TgbZtg",
+        "business_name": "Good Karma Cafe",
+        "business_categories": "Food, Cafes, Coffee & Tea, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "The place is really rather run down looking on the outside so I wasn't expecting much,  but on the inside they have actually a decent selection of products. As others have mentioned, it's a bit pricey but not more pricey than you get at any corner market to be perfectly frank. It's not where anyone would go to do their regular grocery shopping but if you need a snack or some quick items, it's a great option.",
+        "date": "2020-12-11 09:05:38",
+        "business_id": "f8xDi3rajxvIqS73N93Afw",
+        "business_name": "Guavaberry Foods & Drinks ",
+        "business_categories": "Delis, Convenience Stores, Restaurants, Cafes, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Still a great store but note they have changed their name to Guavaberry Food + Drinks. Nothing else has changed.",
+        "date": "2021-06-18 11:21:48",
+        "business_id": "f8xDi3rajxvIqS73N93Afw",
+        "business_name": "Guavaberry Foods & Drinks ",
+        "business_categories": "Delis, Convenience Stores, Restaurants, Cafes, Food",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "3QnoTcrxuafMCoTzW_AH7A",
+    "name": "Sari Marissa",
+    "review_count": 1403,
+    "average_stars": 4.37,
+    "reviews": [
+      {
+        "stars": 4.0,
+        "text": "Hubs has become a closet 3 wick candle and Wallflowers collector. True story.  Every-time I go away, I come back and find my stash mysteriously growing. Shhh. Don't tell him I told you! He's inspired me to come by here and pick him up treats every now and then... \n\nComing to this location is really a pleasure, plus it's conveniently located in a shopping center I frequent often. The staff here is really amazing! Extremely friendly and helpful. Valerie who usually works during the week is outstanding, bubbly and full of life. You can tell she loves her job which is super refreshing! \n\nThis store is always in tip-top shape, fully stocked at all times and very well organized\n\nYesterday we shopped as a family for their annual $8.50 3 wick candle sale. We stock up when they have these for our personal collection and to have on hand for quick hostess, secretary, mail lady gifts etc. They make a great \"just a little something\" gift. The place was insanely packed and yet this top-notch staff did a great job of keeping the 4 distinct lines moving, the smiles beaming and the dozens and dozens of customers from killing each other over pumpkin this, and twinkling that scented candles. \n\nThey always hand out coupons for great sales as well as send emails. Make sure to give them your email address each and every visit to ensure the mail keeps coming. It's rare there's not a current coupon so no need to ever shop without getting a discount!",
+        "date": "2016-12-04 13:29:26",
+        "business_id": "PzmxNRjfOQCaKgSI8O_MKw",
+        "business_name": "Bath & Body Works",
+        "business_categories": "Skin Care, Beauty & Spas, Gift Shops, Perfume, Flowers & Gifts, Shopping, Home & Garden, Day Spas, Cosmetics & Beauty Supply, Candle Stores",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I come here when I want to get a little creative with my caffeinated beverages. I'm a big fan of their \"El Diablo\", a raspberry mocha with cayenne. Definitely try it if you're a fan of a little pep! Most recently I tried the \"Wooly Mammoth\" which contained dark chocolate, cardamom, cinnamon and blackberry. It was very delicious! \n\nThey always have two menu posters on the wall noting the seasonal drinks, both teas and coffee which they are currently offering as well as one poster with their signature house favorites. They are all uber creative and it's really hard each time I've visited to choose just one of the options with quirky names such as \"Walking Dead\" & \"007\".\n\nLucky Goat of course offers all of the standard coffee shop beverages, but honestly, that's not why you're going to want to come here. Stepping out of your comfort zone a bit here would be my advice. I love the feeling of coming in knowing I can try something new each and every time I visit, but can always go back to an old favorite if I so choose. \n\nThere's a couch and some outdoor seating which I where you can usually find me. There are barstool seats by the side windows as well as two tops in the main room. There's also an upstairs which is a tad more spacious. There's games for adults and books for kiddos. \n\nI haven't tasted any of the food, but I do go a few blocks out of my way just for those unique drinks alone when in Fairmount/Brewery section of the city. I say try it! Oh, and they have almond and other non dairy milk varieties for the fellow veg-heads out there!",
+        "date": "2016-11-11 11:34:49",
+        "business_id": "vdpxxb6fxjYtJMnW_V0GZg",
+        "business_name": "Lucky Goat Coffeehouse",
+        "business_categories": "Food, Coffee & Tea",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This is the original location of Primo's Hoagies! When you come here you can expect that old school South Philly hospitality. It's a tiny, no frills take out only corner shop selling really tasty hoagies (not subs for those out of towners). I actually think this particular location is the best out of all that we've tasted. \n\nWhat makes Primos hoagies so delicious is the perfectly crispy, toasted original Primo's Brand rolls. It's all in the roll if you ask me. \n\nIf you're not sure what to order, you can't go wrong with a classic Italian. Hubs go-to is the 'Chicken Diablo' and I prefer 'Nonna's Veggie'. It's absolutely incredible! Breaded eggplant, roasted red peppers and broccoli rabe with sharp provolone. They will leave it off if you're dairy-free and I feel even then, it doesn't miss a beat. \n\nThe sammies are reasonably priced and ready fairly quickly although there's definitely a steady lunch crowd around noon or so. Heading here at a slightly off time is your best bet especially for a legal parking spot also! Don't you dare block the street! \n\nKnocking off a star for their hours. They close at 4pm or whenever they run out of rolls. I can definitely appreciate them wanting to keep the rolls fresh but there have been many a times when we wanted to grab and easy dinner from here and it was impossible. That inconvenience is a total bummer. We would probably order from here a lot more often if their hours were more conducive to our schedule.",
+        "date": "2017-02-20 12:25:48",
+        "business_id": "kOHcpCZQd4uNp6G2uE8o2A",
+        "business_name": "PrimoHoagies",
+        "business_categories": "Delis, Restaurants, Italian, Local Flavor, Sandwiches",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This spot was our jam back in the day when it was Kildares. On a tour of of old haunts in honor of my husband's recent birthday we decided to stop by despite being a bit super partial to the old residents. We were actually quite impressed with the renovations and the new vibes! \n\nThe place is super hip and obviously inspired by music. I loved the photos of my old pals Janis and Jimi downstairs, and certainly the guitars and old school blues concert posters on the walls upstairs in the \"juke joint\". \n\nWe came for date night and enjoyed live music by  Big Soul Chicken band. (Check their site for a listing of upcoming performers.)They were awesome and played their original tunes as well as classics we all know and love. Perfect place to come whether you want it as background music or more of a concert/dancing type of night. \n\n While the \"juke joint\" wasn't nearly as nitty and gritty as the authentic ones I've been to on the back roads in Mississippi and in the south in general, it certainly gave me a bit of that area I desire from time to time. There's not enough live music places in the city in my opinion. Let alone free to enter ones! This place is a great find! \n\nIt's super groovy, dark and sexy feeling up in the juke joint. Lots of candles and even a fireplace. Perfect for a night out with my love! \n\nThe cocktails were awesome and ran about $26 for two before gratuity. We chose the Lynchburg Basil Lemonade (Jack Daniels, Fresh Basil, Homemade Southern Lemonade) and the Black Cherry Gimlet (Black Cherry Vodka, Vanilla, Lime, maraschino Cherry). I honestly cannot choose a favorite! Both were carefully crafted, alcohol filled and absolutely delicious! Whiskey and Bourbon are obviously their specialty and I really loved the barrels scattered about doubling as side tables! The beer list was rather extensive also! \n\nThe menu, like the entire place, is influenced by the South. They have a late night menu, kids menu, brunch, lunch and dinner. We can't wait to return perhaps for brunch with the kids or \"social hour\" as they call it. There's daily specials during that 5-7pm period with $4 wines, $3 brews and $4-$6 smaller plates. The mushroom and kale salads were calling my name and the crawfish Mac and cheese sounds right up hub's alley. \n\nSuper fun find!! \nKiosk parking. Lots of spots. There's also an hourly lot under Abbots Square.",
+        "date": "2018-01-23 15:27:14",
+        "business_id": "7mpYTDb24SywNMRn3yeakQ",
+        "business_name": "The Twisted Tail",
+        "business_categories": "Event Planning & Services, Whiskey Bars, American (New), American (Traditional), Venues & Event Spaces, Bars, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "3.5 yelps Happy to have Benna's West in the 'hood as it's the only place for fresh pressed juices this side of Washington and west of Broad. This corner of the city desperately needs a place like this. I have a few gripes however... \n\n*Craving a green juice after the gym I stopped by Benna's which had caught my eye several times driving past. I had never been to the original but had heard nothing but good things. Expecting to choose a juice from a list of super cheesy names like \"Green Machine\", \"Purple Passion\" and there's always the inevitable, \"Hangover Cure\", all I see is a list of Ingredients. Confusion sank in for a moment... Now, I do like the idea of 'make your own juice' and I like the fact that I can add as many ingredients as I wish without a crazy up-charge and that they offer bell pepper which is somewhat of a rarity, but I am a regular juicer and know how to properly combine ingredients for a great tasting juice. Not everyone does. Not everything tastes, even looks good together. People who are newer to juices may feel a little overwhelmed with this method of ordering and may very well create something that tastes horrible. (I've done it in the early stages of juicing.) They may never drink juice or order juice here again. No one wants that. I think a few suggested combinations would be a rather smart addition to the menu for the juice newbies or even for someone that doesn't want to think it over too much. Leave the \"make your own\" as an option in addition to suggested combos. Was the juice even good you ask? Yea, I created it. \n\n* I had no idea that it was cash only. Yelpers, you failed me on this one. They do have an ATM on site with a $2.75 charge. This is definitely a pet peeve of mine. Not only is an ATM inside unsightly in an otherwise cute place, but what is it really to have a square reader or something similar in this day and age? Especially when you're already using a tablet for orders anyway and it's so simple to use! Up your prices a tad to cover the slight service fee. It's annoying!! This made my $5 juice a $7.75  which still isn't awful I just much rather use that money towards one of the delicious looking pastries that were staring at me as I ordered up my kale. \n\n* The sign on the door kind of rubbed me the wrong way. \"Please leave bikes, strollers, dogs yada yada on the side street\" or something to that effect. (See pic.) Just strange and bossy. I didn't however mind the \"no smoking 20 feet from our front door\" sign. Good call. Honestly though between the signage, the ATM and the not so friendly girls behind the counter, I wasn't feeling Benna's vibes which is a shame. \n\nPositives would be the location, brightly colored tables outside and healthy and clearly marked vegan options. The avocado grapefruit salad caught my eye as did the Kale salad with falafel. I unlike others didn't think the food prices were that steep. \n\nWill I be back? Sure. I would like to try the food. Plus, it's so close to home. I'll just remember to bring cash next time. \n\n*Lots of laptops going so if you're looking for a place to work, seems legit. \n\n*Free street parking right on Broad makes for and easy for a quick stop if driving.\n\n3.5 yelps",
+        "date": "2016-04-07 02:21:15",
+        "business_id": "I4TFiNX5gTsJBnEGH2Tl8Q",
+        "business_name": "Benna's West",
+        "business_categories": "Juice Bars & Smoothies, Sandwiches, Food, Restaurants, Coffee & Tea",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "It's a fine, basic nail salon and a good, cheap, quick option for when I'm in the area. I have never had any issues nor have I ever had to wait which is a nice change from the long waits in the smaller salons in the city where I live. Queen Spa is big, bright and clean. \n\nThe man who always greets you as you walk in is very kind and seats you immediately. He'll jump in when need be if things get busy as well. \n\nMy Mom has been coming here religiously for gel manis and pedis and had no complaints over the years. She used to see Nona who is now only there on the weekends, but she's a favorite among a few ladies I know so maybe give her a try. She's been there for years. It seems that choosing the older ladies who are more experienced is the way to go here. \n\nI have only gotten gel mani and pedi and they are a steal especially compared to the salons in the city! Monday through Friday they run a special, $35 for BOTH a gel mani and regular pedi. Craziness! \n\nTheir regular pedicures are hot rock which I'm obsessed with! You have to pay extra in the city for this treatment. \n\nThey have a cute special mouse (knock off Mickey) chair for the kiddo's to use which mine love! \n\nDesigns are $5 extra \n\nTips are cash only, but they do have an ATM on site which does NOT have a surcharge! \n \nIs it the best mani I've ever gotten? No \nDid I sip a glass of champagne while I was there? No \nDid my hubby love me for the price listed on the receipt? Yes.",
+        "date": "2016-06-21 19:57:27",
+        "business_id": "rAUaBd1BMOrY9K6kZzcEEw",
+        "business_name": "Queen Nails & Spa",
+        "business_categories": "Nail Salons, Beauty & Spas, Massage",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "The Comcast HD wall is one of the world's largest LED screens and quite frankly, pretty cool! Their holiday show is a part of our family's annual Philly Holiday tour! We've been coming here to view this awesome FREE show since the very first year it opened back in 2008 and we still enjoy it very much. We think you will too if haven't been already. \n\nThe show itself hasn't changed much nor have the crowds diminished over the years, but we still come and cram in to watch the 15 minute show filled with everything you need to get you into the holiday spirit such as The Twelve Days of Christmas, dancing penguins, caroling, winter sleigh rides and my favorite part, The Nutcracker which is performed by The Pennsylvania Ballet. Oh, and the aerial scenes over Philly are really cool too! Make sure you stay to the end as there's some magical snow fall kiddos will love!\n\nThe holiday show runs from Thanksgiving to New Years at the top of each hour from 10am-8pm everyday except at 5pm on weekdays. \n\nWe usually try to arrive early or make our way up front where parents and their wee ones usually grab a seat on the floor. Standing visitors stay towards the back. \n\nWe usually visit here after a trip to Macy's, Rothman Rink and Christmas Village! We park once and walk to each location or Uber it to one and walk the rest. It all makes for a truly, lovely day in the city!",
+        "date": "2016-12-02 11:32:10",
+        "business_id": "klGvxx2XmKkd-9mdRZoGVA",
+        "business_name": "The Comcast Experience HD Video Wall",
+        "business_categories": "Local Flavor",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Adorable little new Parisian bakery! \nClean, bright, and oh so welcoming! \n\nWith the bistro tables out front, the bicycle complete with a wire basket perfect for baguette carrying, and the selves shaped like The Eiffel Tower, I would say they carried out their concept quite flawlessly here. \n\nWhile they personally had me at just La Colombe, latte drafts, and a plethora of teas, their pastries glistening with butter, were mesmerizing. \n\nI stopped by way too quickly this visit (30 minute loading zone spot right out front) for a sweet treat to take home to my sweets. It was as chilly and raining and I couldn't help but wish I had more time and a good book with me because I just wanted to grab a table by the big windows up front and relax with some hot tea. I did NOT want to leave! \n\nTorn between one of the varieties of croissants, the chocolate bread pudding and the Philly Paris which looked like a custard filled eclair, I went with a heart shaped flaky pastry filled with beautifully and perfectly piped cream. It was said to be absolutely outrageous! Start to finish, no crumb left behind. It was a winner for sure! Thanks for making me look good you guys!\n\nI can't wait to bring the whole fam here earlier in the day when the choices seem to be more plentiful, although it doesn't seem you can go wrong here either way. \n\nIt's a great place to get some work done which many were doing, meet up with a friend and stay awhile, or grab a quick snack or caffeinated beverage to go! \n\nIn addition to their freshly made baked goods which aren't just sweets, but loaves, quiche and sammies too, they also sell jams and other pre packaged goodies. \n\nService was so friendly and the offer 10% discounts to Sweat members and Jefferson employees with badges. \n\nSee you soon, J'aime (which is actually pronounced simply \"Jem\" like \"...And The Holograms\").",
+        "date": "2017-11-08 11:49:37",
+        "business_id": "eqNutOMnPqKa9QDAY6KfEw",
+        "business_name": "J'aime French Bakery",
+        "business_categories": "Food, Juice Bars & Smoothies, Coffee & Tea, Restaurants, Bakeries, Cafes",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Loved Tuna Bar! Upon entering I was so impressed with the modern, trendy space and impeccable attention to detail every where I turned. So many decor pieces and architectural aspects I love here! They had me at wrap around banquet seating in a pop of turquoise. I had a feeling I was in for a good meal from the interior design alone. I was...\n\nFirst visit was for a casual, lighter lunch with my daughters and an old girlfriend which it was just perfect for! We did make ressies on Open Table which wasn't necessary for a mid week lunch, but I would suggested for dinner. \n\nWhile we stuck to some basics, they were pretty great! California, California with real crab made crispy, cucumber roll, peanut avocado (the kids' favorite!), seaweed salad, edamame, and incredible Brussels! Must order! Everything was super fresh and came out in a timely fashion. \n\nService was fantastic! \nPrices were fair. \n\nI can't wait for my next visit perhaps for date night when I can taste some of those delicious sounding cocktails and dig into some entrees. \n\nI love having Tuna Bar as a new option in the Old City area just a bit away from the hustle and bustle, whether that be for lunch, happy hour (which sounded really great!), or dinner...with the kiddos, or without. It will be be on my radar for the next First Friday or after a movie at The Ritz!\n\nI actually found it a tad difficult to spot from the street. It's the door just to the left of United Blue. Not a huge sign. It's there, trust me :) \n\n*Limited kiosk meter parking.",
+        "date": "2018-03-23 10:39:29",
+        "business_id": "MUTTqe8uqyMdBl186RmNeA",
+        "business_name": "Tuna Bar",
+        "business_categories": "Sushi Bars, Restaurants, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "3.5 yelps. So it seems like our experience was not the norm and that's unfortunate for us. Seeing all of the other rave reviews makes me want to head back and see if the Sunday when we dined was just a rare fluke. I feel like we were jipped out of this amazing experience everyone else had. We were so excited to treat my parents to this meal. We were a tad embarrassed about how it turned out....\n\nRight off the bat, ordering was fairly difficult. They did not speak one word of English. Many mistakes were made and any special requests we had were unable to be fulfilled because of the language barrier. We spoke with two individuals, neither understood us. At all. I think that unfortunately set the tone for the meal. \n\nWe had a larger party and below is what everyone had to say. I personally can only comment on the mushroom tofu soup which I actually really loved and am totally craving right now after looking over my photos. The scallion pancakes were a tad soggy and lacking in flavor for me and the dumplings were just ok. I've had better. A tad too slippery and slimy for my taste. The plain rice was so delicious for some reason. Piping hot. Yum. \n\n3 yelps Beef soup. Not enough beef. Banchan Sides were good. Ribs were good. Chicken was just alright. \n\n3 yelps seafood tofu soup just two shrimp (one with eyeballs) Barely any seafood. \"Floating yuck\". Beef was really good. Chicken was just ok. \"$12 for a bowl of tofu?\"  Dumplings were good. A little mushy. \n\n2 yelps they don't have anything for kids. \n\n4 yelps Excellent rice plains and simple. \n\n3 yelps mushroom tofu soup was very good. Beef was the best out of everything. Chicken was average. \n\n3.5 yelps Chicken was not BBQ as stated. \nScallion pancakes weren't crisp, were too greasy and a tad bland. \n\nTons of food so think twice when ordering. Don't forget about all of the side that come first. The place was pretty cute. A nice find for the area. I think everyone could appreciate the authenticity of the meal for example the raw egg to place in our soon du bu, but Something just wasn't happening the way we had hoped and the way it seemed to for others.",
+        "date": "2016-06-03 01:10:12",
+        "business_id": "QWqKTWQ2OiDgo3dzNkpung",
+        "business_name": "Jong Ka Jib",
+        "business_categories": "Korean, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I love supporting small businesses and I really love supporting local artists. I equally love giving unique gifts they won't easily find anywhere. Enter Philadelphia Independents. It's a great little small shop in Olde City with all the handmade Philly swag you can handle, designed by locals! \n\nI recently purchased a bada** Gritty card and one of our favorite local artist's sports tees for one of my husband 's Valentine's Day gift. He was thrilled and I felt great giving something so special that I know he would love and was just his style. \n\nThey wrapped it for me and the owner was super sweet, introducing me to new designers and showing me all of her fun items. \n\nAll around it was a fantastic stop, one I'll be making the next time I need a cool gift for a Philadelphian, even a new baby Philadelphian, as they have the cutest onesies! \n\n*It's also a great place to stop for a non-cheesy souvenir for visitors!\n\n2 hr Kiosk meter parking.",
+        "date": "2019-02-15 14:51:51",
+        "business_id": "X46tKBT7vTEGeaYj6GkZ-g",
+        "business_name": "Philadelphia Independents",
+        "business_categories": "Gift Shops, Shopping, Arts & Entertainment, Flowers & Gifts",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Unfortunately I have frequented this place too often lately. So besides being pissed at myself for throwing money down the drain and being careless, I leave here completely satisfied and relieved. Super fast service. And the guy who owns the place is very nice and knowledgable. I had my screen fixed twice and my lcd screen fixed also. This place was cheaper than the 15 places I called in the city and could get me in and out a lot faster. The first time took about 30 minutes (just in time to check out the dollar store down the street) and the second time less than 2 hours because there were people ahead of me. I also then obviously bought a screen protector for a mere $20 which he so carefully applied for me. He cleaned it with a wipe, used special dusting tape and took his time applying it. My hubby who got his done at the Verizon store has bubbles. I would absolutely recommend this place and also recommend getting a good case. Duh. I had a fantastic one (a life proof case) until my daughter thought the lime green sealant rubber thingy was a necklace and stretched it out. No more expensive \"jewelry\" for my little girl.\n\n**he also gave me great online marketing advice for my small business. They fix computers and do web design as well.",
+        "date": "2016-01-11 23:04:49",
+        "business_id": "hlqnFy34n8tnVNMq-pO34g",
+        "business_name": "Best IT Guru",
+        "business_categories": "Shopping, Computers, Specialty Schools, Marketing, Mobile Phone Repair, Professional Services, Telecommunications, Education, Graphic Design, Web Design, Mobile Phone Accessories, Home Network Installation, Security Systems, Legal Services, Local Services, Home Services, IT Services & Computer Repair",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I am constantly impressed with the services, honesty (and great conversation) provided by Dr. Cabrera. I'll say it once and I'll say it again, with any large practice, please find one doctor you love and stick with him or her! \n\nThe office is lovely, uber clean, sleek and modern. Scheduling is available 24/7 and I have cancelled last minute with no charge. They also send text messages with appointment notifications with the option to confirm or cancel and receive an immediate call back to reschedule. So easy and efficient! \n\nService from the receptionist out front offering waters, to the friendly and personable hygienist, to the billing guy when checking out has always been stellar. \n\nI loved my old dentist, but because of distance I had to switch. I was afraid I wouldn't find someone I like and trust as much, and I'm happy to say that wasn't the case when I found CCED! \n\nA visit here goes hand in hand with a shopping trip on Walnut. It makes heading to the dentist THAT less dreadful! \n\nParking isn't impossible. It's kiosk meter, but I usually uber and stroll around afterwards with no rush or worry.",
+        "date": "2019-01-26 01:07:14",
+        "business_id": "6bFx8j2KqPfmT0XEUS1RMg",
+        "business_name": "Center City Emergency Dentist",
+        "business_categories": "Orthodontists, Health & Medical, Oral Surgeons, General Dentistry, Dentists, Cosmetic Dentists",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Potitos is a classic South Philly staple. While they do offer other assorted goodies as well as some creative towering cakes, you want to come here for the cannolis. You want to get the chocolate chip ricotta (\"ri-got\" is how you have to say it around here). And the answer is of course \"yes\" when asked if you want the powdered sugar on top. They're thick and creamy and rich. They can be cut in half as a half is all you really need, but you will want the whole thing. Hell, you'll want the whole box, dammit. \n\nCurrently they're are $3.50 a piece. They have a annual sale on their anniversary where they sell them for the original price when they first opened. This is when you want to go for a large order, but this is also when you'll find a line all the way down Ritner Street. \n\nYou want to be everyone's favorite at a party or dinner? Pick up a box. You're welcome. \n\nParking is typical South Philly parking. It's rough. Real rough. Don't block the street as most do. It's usually a quick stop except before a big holiday. Just find a (semi) legal spot where people can still drive by.",
+        "date": "2016-07-18 12:39:16",
+        "business_id": "xruWHK8Z5N0JWyQubLHjgA",
+        "business_name": "Potito's Italian American Pastries",
+        "business_categories": "Food, Restaurants, Bakeries",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "JOrDiXIgpb0sjtd7Cr3CdA",
+    "name": "Mandy",
+    "review_count": 417,
+    "average_stars": 3.66,
+    "reviews": [
+      {
+        "stars": 4.0,
+        "text": "I think the Black Sheep is my favorite in the city. They have yummy food (especially the fries), the first floor is lovely and bright when it's nice weather because of the big windows, and there are 3 floors so usually you can find a spot somewhere to have a drink.",
+        "date": "2016-12-07 03:07:57",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "So far I've been to this friendly cafe twice and both times I've been transported to Paris. When you walk in you are greeted with a Bonjour and allowed to select from their delicious savory and sweet offerings like quiche Lorraine with onions and bacon or their pan au chocolat (our favorites so far). P. And I have gotten both their cappuccinos and regular coffee and both were on point. You're never made to feel rushed as you sit at a table and relax, which feels oh so Parisian. I will definitely be back to try some more of their baked goods, particularly their fruit tart. Also they have freshly baked baguettes and bread for sale, which look just right.",
+        "date": "2017-10-08 14:41:58",
+        "business_id": "eqNutOMnPqKa9QDAY6KfEw",
+        "business_name": "J'aime French Bakery",
+        "business_categories": "Food, Juice Bars & Smoothies, Coffee & Tea, Restaurants, Bakeries, Cafes",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "My husband and I have bought a bunch of Shibe's sports related shirts over the past couple of years. The tshirts they use are great quality and soft and they always have unique designs that you know not everyone around you will have if you're planning on wearing something to a game. My MIL is a big flyers fan so we've gotten her a bunch of different flyers shirts and she loves them. Also the shopping bags they give you are reusable totes, which is a nice touch. I'm sure we'll be back the next time we're walking by and something new in the window looks interesting.",
+        "date": "2016-12-11 16:46:10",
+        "business_id": "lKlRRS26_eTA_eCjrWBT4w",
+        "business_name": "Shibe Vintage Sports",
+        "business_categories": "Sporting Goods, Fashion, Souvenir Shops, Sports Wear, Shopping",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This place is the old Paradigm/Dolce, so it's huge. We stopped in for an early dinner as we were seeing a show around the corner at a nearby theatre. For dinner we had the veggie pizza, yummy, thin crust with seasonal veggies (broccoli rabe, zucchini, and tomatoes) and the mussels in white sauce, very tasty! I kind of wish there wasn't any broccoli rabe on the pizza, though because I don't enjoy the bitter taste. Our waitress was very attentive we were in and out pretty quickly, which worked out for us since we literally had to run up the street to get to the theatre in time. Would recommend the bar as they seem to have a decent amount of specials and the food for a casual meal.",
+        "date": "2012-08-26 23:52:15",
+        "business_id": "REns5fQe45Nk_D2UwQyr0w",
+        "business_name": "Barra Restaurant",
+        "business_categories": "Restaurants, Bars, Pizza, Nightlife, Italian",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I thought bareburger was pretty tasty! We went in for take out thinking it was more like a five guys, but it actually looks like cool a place to sit down and have a burger and some fries. I got the standard because I'm boring and it was delish! The fries were nice and salty and the onion rings were good too. Id like to go back and try some of the other meats. The prices aren't cheap, but the location is so close to me, I can't complain. I'll be back.",
+        "date": "2014-11-11 02:27:46",
+        "business_id": "2er_V-oAd7IbQ5YTY56r7A",
+        "business_name": "Bareburger - Midtown Village",
+        "business_categories": "Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I really enjoyed my visit to Southgate last night. They were accommodating to our group of 7 (we got a big table towards the kitchen) and the food was great! We tried both styles of their Korean Fried Chicken (KFC) - the soy garlic and spicy gochujang. I really enjoyed both flavors. The spicy wasn't TOO spicy and the soy garlic was sweet and tangy. Both were a great compliment to the extra crispy crust on the chicken. For my entr\u00e9e I went with the beef bibimbap and of course upgraded to the dolsot option ($2) extra which was worth getting the hot crispy rice. I ate the whole bowl and I'm not even mad. I tried 2 of their signature cocktails the \"Korumbian\" because the name just made me laugh and the Korea 75. The Korumbian was a little too sweet for my taste, but it was nice with the spicy wings and salty soy flavors of the dishes we got. I preferred the Korea 75 which is sparking wine with sake and a little citrus (grapefruit maybe?) I'm a sucker for anything with a little sparkle to it. I definitely would recommend this place for something that isn't your typical Italian or Chinese casual dining if you like interesting flavors. I will be back!",
+        "date": "2015-10-14 13:08:17",
+        "business_id": "68ThEdiK0eWCEgGEmV9Tng",
+        "business_name": "Southgate",
+        "business_categories": "Breakfast & Brunch, American (Traditional), Korean, Restaurants, Gastropubs, Nightlife, Bars, Cocktail Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "I went to Kanella with 3 of my friends before a girl's night out. My friend had heard good things about this restaurant and we were all excited to try it. I will say, I don't typically eat greek fare, so this type of food was a little different for me, which definitely may have affected my rating of this place.\n\nFor an appetizer, we shared the plate of mixed dips which included hummus, tzatziki (I think) and some other spread that the waiter told us was \"cow manure\" that I believe had some kind of fish in it. He was definitely trying to be funny and had a good personality, but I thought cow manure was a weird thing to call food that you were serving a restaurant. I don't think the chef's would have liked that too much haha. All the spreads were delicious though, even the \"cow manure\". \n\nSince we were going to be partying later and I had already stocked up on large amounts of the pita that was served and replenished often with our appetizer, I figured I would just have something lighter for dinner. I went with one of the soups of the day. I'm not really sure what it was called, but it had a lemon broth base with pulled pieces of chicken throughout mixed in with a curdled milk substance. I was not a big fan. It had a strange bitter taste that I am not  accustomed and they lemon mixed with the cream or milk was not to my liking. \n\nHowever, the other plates that my friends got were colorful and looked interesting, I just don't think authentic greek food is for me. Give me some spanakopita or a nice gyro and I'm set, but that's about as wild as I'll probably get.",
+        "date": "2010-09-01 02:16:57",
+        "business_id": "mUIBtlWNPD7sz3rGGWQ1RA",
+        "business_name": "Kanella",
+        "business_categories": "Mediterranean, Food, Greek, Restaurants, Breakfast & Brunch",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I've been to the Blue Duck a few times, including my bridal shower, and every time has been great! I've made it a point to try something different every time I've visited and I have yet to be disappointed. The pork roll burger is delicious and sriracha spicy and VERY messy so be prepared. The fried chicken sandwich is perfectly crispy. The House Grind is juicy and a safe bet for any burger lover out there. The General Tso wings are reminiscent of Korean BBQ wings and the General Tso chicken tacos that my friend had looked yummy too. The Blue Duck fries are a must. I repeat. You MUST get them. All the mac and cheeses are delightful, but I particularly enjoyed the green curry mac and cheese which have a hint of heat and curry flavor and are topped with crispy chickpeas and chicken. But you can't go wrong with any of their velveeta-esque shell mac and cheese. They are BYOB which is always fun when you're prepared and if you aren't they have lemonades, iced teas, and adorable mini glass coke bottles that you can pour into a mason jar. The staff here are so nice and patient, especially when we were there for a few different lunch parties with larger groups. The restaurant is decorated in a light country style which pairs perfectly with the mason jars and galvanized metal wine buckets they provide. I will definitely be returning! The Blue Jawn...I have my eye on you.",
+        "date": "2015-10-29 11:17:32",
+        "business_id": "O6hY9yenifuRXrpc4TfgsQ",
+        "business_name": "The Blue Duck",
+        "business_categories": "Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Paddy Whacks is a fun South Street bar for beers and mixed drinks. It's big so you never feel like your bumping elbows with people, which I like. Also, the Baby Guinness shots are so adorable. Haven't tried the food, but I would imagine you could get some decent pub fare here.",
+        "date": "2013-12-20 18:10:09",
+        "business_id": "eJ77e9lGxY3ArzaoDbHhYw",
+        "business_name": "Paddy Whacks Irish Sports Pub - South Street",
+        "business_categories": "Bars, Nightlife, Pubs",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This a nice change of pace for the Free at Nooners, like myself, after taking in some fabulous, live XPN radio station music, which is right down the street. They have lots of seating for big groups (note: the Game of Thrones-Style giant wooden tables). They have a lot of beer on tap, especially Irish beers, and hefty portion sizes for their lunches. I got a filet medallion sandwich with onion rings and they definitely didn't skimp on the onion rings. Its a decent Irish pub in the area if you're feeling something different than Slainte or the World Cafe.",
+        "date": "2013-10-16 19:43:32",
+        "business_id": "dO4iyNK2KzLMe1kXLCskbw",
+        "business_name": "St. Declan's Well",
+        "business_categories": "Nightlife, Music Venues, Irish, Pubs, Irish Pub, Arts & Entertainment, Food, Restaurants, Breweries, Bars, Beer, Wine & Spirits",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Saturday and Sunday brunch from 11-4! I'm a huge french fry fan and Black Sheep has some damn good fries. I would go just for the fries. And the beer of course. They definitely have a solid pub fare offering and I need to come back to try more things off their menu. I'll definitely return for brunch!",
+        "date": "2014-02-06 13:42:44",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "This little shop is great for unique gifts for friends and family and even yourself. My husband bought a liberty bell and bolt tshirt and loved it so much we went back and bought him another one in a different color. He always gets compliments on it and it's so soft I can see why he wears it all the time. I've gotten baby onesies that have cute patterns for my friends kids too and I known they're not going to be like any other gift they'd get from anyone else. The prices are a little high, especially for pillows and housewares, but I've yet to find designs that rival theirs so I'll probably back for some Philly themed pillows sooner or later.",
+        "date": "2016-12-17 01:20:26",
+        "business_id": "X46tKBT7vTEGeaYj6GkZ-g",
+        "business_name": "Philadelphia Independents",
+        "business_categories": "Gift Shops, Shopping, Arts & Entertainment, Flowers & Gifts",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "This place is a nice, quirky addition to the area offering a huge assortment of beers that you can buy by the bottle and have with your lunch. The small menu includes hoagies with boars head meat, crispy Korean style chicken wings tossed in your choice of sauces, French fries topped with cheese, steak and fried onions if you're feeling frisky, cheeseburgers, and various specials like meatball sandwiches and fried chicken sandwiches. It's no frills and has a few tables, but it seems to work out fine as it seems to have a big take out presence, at least at lunchtime when I usually go. It's close to work and I love that I have the opportunity to try out new beer and cider options 1 at a time without having to invest in a pack or case before I know I like it. Chases Hop Shop is a great casual place to go for lunch when you're in the mood for delicious, double fried ginger soy wings with a side of cheesesteak fries washed down with a cold bottle of Crabbie's Ginger beer.",
+        "date": "2016-05-04 13:37:18",
+        "business_id": "NQSnr4RPUScss607oxOaqw",
+        "business_name": "Chase's Hop Shop",
+        "business_categories": "Chicken Wings, Nightlife, Bars, Delis, Food, Beer Gardens, Sandwiches, Beer Bar, Restaurants, Beer, Wine & Spirits, Gastropubs",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "ylE_w4QR7JCz9cr9ub9l3A",
+    "name": "Ashley",
+    "review_count": 460,
+    "average_stars": 3.93,
+    "reviews": [
+      {
+        "stars": 5.0,
+        "text": "Best Chinese food in the city. The old city location is the original but this one's great too. Keep in mind that their \"10\" is HOT!! I loveeee spicy food and i could only do a 7....",
+        "date": "2014-02-11 23:03:04",
+        "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+        "business_name": "Han Dynasty",
+        "business_categories": "Restaurants, Chinese, Szechuan",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "First Time Customer: free bikini line wax (perfect for right now!!!)\n\nThis place is super chic and cute. You check-in when you arrive and the individual rooms are super clean.  The technicians are professional and nice.  I had Stephanie and she is the sweetest girl ever. I will def be back to her. \n\nnegative: they do a lot of pushing for their 'products' and 'deals' ... even after saying no they handed me a brochure with everything in ti... kind of annoying, but its ok b/c it didn't effect how my wax went! (thats why they get 4 not 5 stars)",
+        "date": "2014-06-21 15:51:12",
+        "business_id": "I8eSWVzc_y9ORuKWgl07Tw",
+        "business_name": "European Wax Center",
+        "business_categories": "Beauty & Spas, Waxing, Hair Removal, Skin Care",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "The perfect spot for: Date night, girls night, group night, whatever you want! \n\nI had been meaning to try Tuna Bar out since it opened up in the neighborhood, but I don't have a lot of friends that like sushi (shameful.... I know). My girlfriend and I decided to have girls night here and it was great! They have a nice selection of wines/cocktails and plenty of options for sushi. \n\nWe ordered three rolls and shared between the two of us: the Wentz (special roll), the Fishtown (speciality roll), and a Spicy Salmon roll.  I think what I liked the most about this place was the plating. Everything is served on one long platter and perfectly set. We all know we 'eat with our eyes first' and this was definitely one of those nights. \n\nAll three rolls were spectacular. Service was just ok, but honestly the food is great and it's a great addition to the neighborhood so I'll be back!",
+        "date": "2018-06-24 22:15:15",
+        "business_id": "MUTTqe8uqyMdBl186RmNeA",
+        "business_name": "Tuna Bar",
+        "business_categories": "Sushi Bars, Restaurants, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Stopped by for HH before the Sixers game and I must say they have great HH deals. Certain appetizers are half off and their house wines are $4 a glass. The bar wasn't that busy as most people trickled in as the game began, but its a good space for friends to hang out and watch the game. \n\nThe stuffed long hots were the favorite. They are spicy and stuffed to the max with perfectly cooked sausage. \n\nThe flatbread on the other hand was meh. Its not on your usual flatbread. What i thought was going to be a naan or pita like texture was more like a cracker. It's so thin and the toppings are piled high which made the \"cracker\" soft and soggy. The taste of the veggies needed salt too. \n\nLast thing we ordered was the beet salad. Slices of tomato, beets, and mozzarella cheese with a balsamic vinegar drizzle. I didn't think i'd he a huge beet fan, but these were good. \n\nIf you get a chance to stop by for HH definitely hit up their drink specials and get the stuffed long hots!",
+        "date": "2019-10-27 19:04:30",
+        "business_id": "QdN72BWoyFypdGJhhI5r7g",
+        "business_name": "Bar One",
+        "business_categories": "Cocktail Bars, Bars, Italian, Nightlife, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "What a great little spot on South St. I never even knew this place existed! Their menu is simple (veggie, chicken, beef, tofu). Prices range from $7-$9 depending on the protein you choose.  I got a veggie bibimbap and it was delicious.  They give you plenty of rice and a whole assortment of veggies.  The fried egg is the star of course. The sauce is what makes the dish. It's spicy just the way i love it!",
+        "date": "2015-08-18 16:15:50",
+        "business_id": "ROeacJQwBeh05Rqg7F6TCg",
+        "business_name": "BAP",
+        "business_categories": "Korean, Restaurants",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "From the outside this place looks nice. Plenty of outdoor seating and umbrellas along with tall black gates. My friend and I decided to give it a shot. We were on our way back and decided to walk down South to grab something.  \n\nThe staff here are nice.  Saying hello as you walk in, walking you to your seat, and saying goodbye as you walk out. Attentive when your food comes out too. Comes back within 2-3 minutes to see if everything ok and if you need anything else at the moment.  \n\nDrink choices are ok. Nothing too special.  I ordered the half rack ribs with a baked potato and broccoli (with garlic). I'd give the ribs a solid 6 out of 10. A little bit too chewy for my liking. Whole meal came to about $25. Not sure why... i mean the place was cool for dinner once, but I dont think i'll be back b/c nothing really stood out to me.",
+        "date": "2015-07-02 14:54:37",
+        "business_id": "VbItL6RDULtnw4YvB6EhVg",
+        "business_name": "Jon's Bar & Grille",
+        "business_categories": "Tex-Mex, Restaurants, American (Traditional), Nightlife, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "Best Breakfast sandwich i have ever had (Breakfast Po Boy... $4.75). It is filing and the bread is so soft.  It's the best breakfast choice and it's one of their more popular items.  \n\nI've also had their Jambalaya (chicken, sausage, and shrimp in it). Their cornbread is made fresh daily.  You really cant go wrong with this place.  I love it!",
+        "date": "2014-01-12 23:54:37",
+        "business_id": "V6Om7YZhlRQRU7WfuxHq8Q",
+        "business_name": "Beck's Cajun Cafe",
+        "business_categories": "Restaurants, Cajun/Creole",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "My roommates and I were walking down Baltimore looking for a place to get something lite to eat/drink.  Thank God for Mood Caf\u00e9!!! This place deserves all 5 stars for its rating\n\nWe each got a Lassi: Mango, Fig, and Peach.  We tried each other's and let me tell you all three tasted DELICIOUS! I mean it's fresh ingredients and the lassi is made right in front of you there. None of this picking it from a fridge or something.  \n\nThe taste is the authentic Lassi taste.  Sweet depending on what flavor/variety you choose and tangy from the yogurt/milk combo.  I have made it my goal to try all 60 flavors that the owner has... and at $3.99(reg) and $4.99(combo) a cup why not? it's so affordable! \n\nDefinitely will be making this place a regular weekly spot for me! :)",
+        "date": "2013-08-30 01:31:35",
+        "business_id": "U30ggGzFpXvc2NZYwOW3qg",
+        "business_name": "Mood Cafe",
+        "business_categories": "Cafes, Pakistani, Juice Bars & Smoothies, Restaurants, Ice Cream & Frozen Yogurt, Halal, Indian, Coffee & Tea, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "After a long hiatus i'm back and happy to say Mood Caf\u00e9 is as perfect as i remember. The guy who was working there last time is gone and the new gentleman Daniel is perfect. Daniel takes care of every customer as they walk in the door. He answers everyone's questions with a smile and your order is ready pretty quickly! Since my last visit, Mood Caf\u00e9 has grown in lassi options. When i first started coming here there were 40 options. Now there are 140! Don't be afraid to ask for a tweak or change to a combo you think you'd like. Hassan/Daniel will do it for you! As always if you don't like it, they are more than willing to make you something else. Best customer service around. \n\nHassan really cares about his customers. He thought i was so upset with my last visit (and Yelp update) i was never coming back again! FEAR NOT HASSAN. i'm here =) and i'll see you soon.",
+        "date": "2016-05-15 23:49:58",
+        "business_id": "U30ggGzFpXvc2NZYwOW3qg",
+        "business_name": "Mood Cafe",
+        "business_categories": "Cafes, Pakistani, Juice Bars & Smoothies, Restaurants, Ice Cream & Frozen Yogurt, Halal, Indian, Coffee & Tea, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "listen... i get it... its McDonalds but come on! This place has the worst attention to detail i have ever had to deal with. I ordered a bacon egg n cheese biscuit with a coffee (2 creams hold the sugar). What i got? a bacon egg n cheese mcgriddle (ewwww) with  black coffee.... ugh\n\nsucks that they dont get the orders right. so be warned CHECK YOUR ORDER before you drive off......",
+        "date": "2014-07-28 14:11:01",
+        "business_id": "kgMEBZG6rjkGeFzPaIM4MQ",
+        "business_name": "McDonald's",
+        "business_categories": "Fast Food, Food, Restaurants, Coffee & Tea, Burgers",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "Had a $25 gift card for this BYO spot so we decided to give it a try. Purchased the guacamole appetizer which was a small portion. It tasted nice, but i wished it was bigger in size. The appetizer nachos with chicken were the nights hit. These bad boys were piled mile high and loaded with cheese, beans, sour cream and guac. I could have just eaten the nachos, but being the true fatty I am we all ordered tacos too lol. The table had two orders of the al pastor tacos and I got the shrimp tacos. Everyone shared. Overall the tacos were a solid 3.5/5. My only complaint was that the shells were too soft so the tacos kept falling apart. \n\nI do love that this is a BYO spot. It adds to its charm. Most people order to-go orders. During our time here there was only one other table sitting inside.",
+        "date": "2019-10-27 18:02:54",
+        "business_id": "I5KZm-NnxYeEQsmp6nK5_w",
+        "business_name": "Las Cazuelas Restaurant BYOB",
+        "business_categories": "Food, Tacos, Mexican, Latin American, Restaurants, Spanish",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "New guy on payroll is rude and slow. I wish Hassan was there when i went bc i would have pulled him over to the side to mention it. Kid needs to get his act together or find a new job.",
+        "date": "2015-08-05 00:15:28",
+        "business_id": "U30ggGzFpXvc2NZYwOW3qg",
+        "business_name": "Mood Cafe",
+        "business_categories": "Cafes, Pakistani, Juice Bars & Smoothies, Restaurants, Ice Cream & Frozen Yogurt, Halal, Indian, Coffee & Tea, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "This bar had been on my to-do list for quite some time and I'm happy i finally made the trip. The first thing i noticed when i walked in is the decor is all mismatched. It's different and i get its the look they are going for so i didn't mind it. it was unique and i like finding different places like this in the city. we were told to sit wherever we want and so we made our way to the front couch. I like to people watch so this was a great view of the entire bar. \n\nOur first drinks were prepared and brought to the table timely. I must say there was only one waitress working the floor and i could tell she was getting nervous because the place was starting to get crowded. Our second drinks took forever to come out. I don't know if she forgot, or that they were ready, sitting at the bar, and she didn't get to them fast enough, but it sucked that it took forever. \n\ni liked the atmosphere, and when i did get my drinks they were tasty, but i hope management understands that one person can't handle an entire floor on his/her own. Service would improve substantially with just one more person working.",
+        "date": "2017-08-11 18:28:08",
+        "business_id": "tzVLTQNUtiCAxUZmEuF0vQ",
+        "business_name": "1 Tippling Place",
+        "business_categories": "Bars, Nightlife, Lounges, Cocktail Bars",
+        "business_city": "Philadelphia"
+      }
+    ]
+  },
+  {
+    "user_id": "GG0mFsEXb-02_dzFPqRV1Q",
+    "name": "Mandy",
+    "review_count": 754,
+    "average_stars": 3.46,
+    "reviews": [
+      {
+        "stars": 3.0,
+        "text": "We came here for dinner because there wasn't really any other option for us; there isn't a lot in the way of nice restaurants within walking distance to World Cafe Live. The happy hour specials are good - lots of $5 apps, of which we got three. The hummus platter was great, but I wish they would give you more olives and forget the diced tomatoes. The pita bread was really delicious. The spinach and artichoke dip was good, but you could tell from one bite that it was loaded with mayo and cream cheese or heavy cream or just generally fatty stuff. I mean, it was thick, thick, thick. Rich. Intense. Borderline overwhelming.\n\nThe rest of the food was just OK. My chicken tenders were pretty blah and the French fries were edible but nothing to get excited about.\n\nI wouldn't make any effort to go back, but if you're in a pinch and need somewhere to eat within walking distance to WCL, it's a decent choice.",
+        "date": "2014-04-23 14:21:04",
+        "business_id": "c8rjE6NcfeyzLB_aU1GdMA",
+        "business_name": "Sl\u00e1inte Pub & Grill",
+        "business_categories": "Nightlife, Bars, Restaurants, Irish, Pubs",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "I think my eyelid is still twitching from my experience with Comcast.\n\nI've wasted HOURS of my life the past week dealing with Comcast in person and over the phone. They have been none too helpful, but this center was absolutely the worst of my experience. Honestly I would have rather gone to the DMV than spent 40 minutes in line at this joint just to have the agent be a complete and total biatch who couldn't (WOULDN'T) help me at all.\n\nTo top it off, the line was over 16 people long and it was hot as hell.\n\nSTAY AWAY!!!!!",
+        "date": "2013-09-05 12:29:23",
+        "business_id": "kTLHh3e_59XZduNwydxuAw",
+        "business_name": "Xfinity Store by Comcast",
+        "business_categories": "Security Systems, Internet Service Providers, Home Services, Television Service Providers, Professional Services",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I come here JUST for the mac and cheese. It's the best I've had in the city. Seriously. I don't know what's in it or how they do it, but it's out of this world. We recently went for brunch and it wasn't on the brunch menu, but the waitress said that was just a mistake and they do serve it for brunch/lunch. Don't hesitate to ask! Anyway, their other food is also good, and they've got plenty to drink, but it's all about that cheesy macaroni for me. They also have a fireplace, which is super cool when it's chilly out. There's lots of seating, if that's something you're worried about. Definitely try this place at least once!",
+        "date": "2011-08-30 15:04:01",
+        "business_id": "sdWuLh-auc0nC2Jy6_26AQ",
+        "business_name": "The Black Sheep Pub & Restaurant",
+        "business_categories": "Bars, Pubs, Irish Pub, Nightlife, Sports Bars, Restaurants, American (New)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "My husband and I came to Jon's because we were going to see a movie and needed to get something to eat first. It was blazing hot out, so we wanted to go somewhere with air conditioning where there wouldn't be a wait. Jon's met our needs.\n\nI have to say, I was really surprised by our meal. I got the southwest panini and he got the veggie panini. We each ate half of the other's sandwich, and both panini's were declicious. Like, surprisingly good. The southwest one came with this spicy mayo that I couldn't get enough of. The portion size was PERFECT, which has recently become important to me. We each finished everything on our plates and didn't leave feeling disgustingly stuffed.\n\nOn another note, we opted for salads instead of fries or chips, mostly because there were about 15 dressing choices and several piqued my interest. I got the Asian ginger, and it was one of the best dressings I've ever had. He got the pineapple mango, which was decent, but didn't compare to mine.\n\nThe one thing that really disappointed me, aside from the unsually loud atmosphere, was the drinks. I got a peach margarita and it tasted just like peach schnapps. It didn't seem fresh or natural at all. I then opted for a raspberry margarita, and it tasted like grape soda. Yuck. Totally not worth the $9.50.\n\nI won't be making a huge effort to return here, but if I find myself in the area needing a place to grab a quick bite, it's definitely a good option!",
+        "date": "2012-07-02 16:28:07",
+        "business_id": "VbItL6RDULtnw4YvB6EhVg",
+        "business_name": "Jon's Bar & Grille",
+        "business_categories": "Tex-Mex, Restaurants, American (Traditional), Nightlife, Bars",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "FINALLY!\n\nThis salon has everything that I want (except a debit/credit card machine)...\n\n1. It's in my neighborhood and there's plenty of parking around.\n\n2. The decor is welcoming and rustic. You can tell they're not trying too hard (like Salon Blush) but it's also not grimy or under-decorated (Shampoo Bar Salon & Spa).\n\n3. They use natural products that don't smell toxic or abrasive. \n\n4. They let people bring their doggies inside. There were two dogs when I was there, and they were just running around being playful and entertaining.\n\n5. They open at 9 am on Saturdays. With so many people having Saturday weddings that start in the afternoon it can be really hard to secure a 10:00 hair appointment just to have it last an hour and then have to rush home and do your makeup and get dressed before hitting the road to get to the wedding. The 9:00 open-time is a real blessing.\n\nNow onto brass tacks... I saw Bridget for an updo for a wedding and couldn't have been happier. She was super friendly and tried very hard to accommodate me. She stopped what she was doing several times to have me check the progress and point out what I liked or didn't like. When she was done and I was doing my final check she told me that if I didn't like it she would \"take it all out and start over.\" That wasn't necessary, but it was really nice to have someone actually care more about whether their client liked the product than to just churn people out as fast as possible.\n\nThe cherry on top is that all of the ladies that work there are super cute! It's always nice to go get your hair done by someone that actually looks good themselves. \n\nThe next time I'm due for a haircut I'm going to try them out and see if I am still as happy. I suspect I will be!",
+        "date": "2013-09-21 14:19:12",
+        "business_id": "sDOxVq8gQBpHFYtoxwoLWw",
+        "business_name": "Plume Salon",
+        "business_categories": "Waxing, Beauty & Spas, Eyelash Service, Used, Vintage & Consignment, Hair Salons, Hair Removal, Makeup Artists, Shopping, Fashion",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "This store is very cute, but it's also expensive. If you're looking for a really unique wedding or bridal shower card, or if you want to get a thoughtful gift of stationary for a friend, this is the place to be. Just be prepared to drop a couple more bucks than you typically would at CVS or Target for the same type of item.",
+        "date": "2016-02-23 17:21:27",
+        "business_id": "j1TPHqEtXGSqVuVNNX8g3Q",
+        "business_name": "Papyrus",
+        "business_categories": "Bridal, Cards & Stationery, Office Equipment, Shopping, Arts & Crafts, Event Planning & Services, Home & Garden, Flowers & Gifts, Home Decor, Gift Shops",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 3.0,
+        "text": "Ambiance: 5 stars\nFood: 4 stars\nService: 2 stars\nPrice: 2 stars\n\nI had the chance to try Tuna Bar for the first time with my husband and my cousin. We were all really impressed with the decor and atmosphere of the restaurant (even if we did get blasted with cold air every time someone new entered).\n\nWe started with the pork gyoza and fried oysters. When we asked our server how many oysters came in an order, she said 2 per order. We ordered two so that all of us could try an oyster. When the plates came out, there were three gigantic oysters on each of them. So, we really didn't need to order 2 at all. The oysters were OK, nothing special. They mostly tasted like breading. The gyoza were disappointing. They really didn't have much flavor and tasted basically like plain ol' pork sausage.\n\nThe actual sushi itself was really good, though. I got some salmon sushi, a yellowtail and chive roll with scallion oil, and a spicy tuna roll. I loved the sushi - it was so tender and melted in your mouth. I also can't say enough good things about the yellowtail/chive/scallion roll. It was...really unique and delicious. I would definitely order that again and advise that you try it for yourself!\n\nOverall, I enjoyed my meal here. I thought their cocktail list left a lot to be desired and that the price for everything was too steep for what you actually got. While I won't be making any grand effort to return, I wasn't dissatisfied with my meal here.",
+        "date": "2018-01-29 13:40:05",
+        "business_id": "MUTTqe8uqyMdBl186RmNeA",
+        "business_name": "Tuna Bar",
+        "business_categories": "Sushi Bars, Restaurants, Japanese",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 2.0,
+        "text": "This was my first real steakhouse experience, and I was not impressed. It's possible that I just am not a fan of steakhouses, or that I just don't *get* what all the fuss is about, but I left feeling monetarily violated.\n\nI came here with my husband and his boss for a dinner, and I arrived about 20 minutes before they did. I went to the bar to get a drink. It was $16.00. For one drink. Without tip. We are not in NYC, folks. We are in Philadelphia, where every other bar or restaurant has specialty cocktails that are delicious and obtainable for $10.00 or less.\n\nWhile sitting at the bar drinking my expensive drink, I took in the ambiance of this place. It was not appealing to me. It seemed dated, dark, and uninviting.\n\nThe appetizer I had was just OK. I got the \"five onion\" soup, which had barely any broth in it at all. It was basically a pile of onions covered with cheese. I've had a million French onion soups in my life, and this one was just not great.\n\nOur dinner was fine. Just fine. I got the filet oscar, which was decent. My husband got the rib eye. It was also good. However, my husband could have (and does) make much, much tastier steaks on the reg. I don't need to spend $50.00 on ONE 6 oz piece of steak, when I could make it at home for much less. \n\nI didn't like our side of asparagus, either. It was so thick. I am sure some people like that, but it was literally over a half an inch thick, and I hate it. I prefer skinnier asparagus, as the fat kind is very difficult to cook the whole way though. So, I didn't really have any veggies to go with my steak.\n\nThe server we had and my bartender were both very nice and attentive, but I just don't see any way in hell that our meal was worth $400.00. The experience wasn't spectacular, the food didn't blow me away, and I left feeling guilty that my husband's boss had just spent so much money on something so underwhelming.",
+        "date": "2015-02-04 14:24:16",
+        "business_id": "pP4q0Mym-qt20nRqTKbzhQ",
+        "business_name": "Morton's The Steakhouse",
+        "business_categories": "Steakhouses, Restaurants, Nightlife, Seafood, Bars, American (Traditional)",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "My husband has been going to this liquor store since it opened, but this weekend was the first time I was able to make it out, and all I can do is echo the other reviews here by saying that it's just really great.\n\nThe store is big, clean, and they've got tons of Skinnygirl drinks, even the brand new releases. I asked where to find an item and was promptly walked over to the appropriate section by a helpful employee.\n\nAnd, of course, who doesn't like a big, free, parking lot just steps away?",
+        "date": "2012-04-23 12:09:39",
+        "business_id": "9EgoCSRFfXUEGiJWFQLJ1w",
+        "business_name": "Fine Wine & Good Spirits - Premium Collection",
+        "business_categories": "Beer, Wine & Spirits, Food",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "If you're looking to buy a car, don't go to this place. The salesman we had was decent, but as soon as the manager got involved it turned into a pushy, hostile, generally bad conversation. It left a really bad taste in my mouth.\n\nSide note: after leaving we went to a different dealer and bought a car that day. It just goes to show that if your attitude is bad and you're unwilling to work with people, you're just hurting your business.",
+        "date": "2011-09-10 21:10:02",
+        "business_id": "5bCsL-Z3QnuBmJQtIt8qyw",
+        "business_name": "Pacifico Hyundai",
+        "business_categories": "Car Dealers, Auto Parts & Supplies, Auto Repair, Hotels & Travel, Automotive, Car Rental",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 5.0,
+        "text": "I'm going to keep this update simple.\n\nAs amazing as I thought Bridget was, Jenny was even MORE amazing! She did my hair last week - a cut and a dye - and I loved the finished product. The haircut was perfect and the color was great. Not to mention she is perhaps the easiest person to talk to, ever. I mean, seriously. There was no struggle in holding conversation with her. \n\nI will definitely be returning to see her again!",
+        "date": "2014-01-27 15:17:46",
+        "business_id": "sDOxVq8gQBpHFYtoxwoLWw",
+        "business_name": "Plume Salon",
+        "business_categories": "Waxing, Beauty & Spas, Eyelash Service, Used, Vintage & Consignment, Hair Salons, Hair Removal, Makeup Artists, Shopping, Fashion",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 1.0,
+        "text": "I was having some health issues back in August and since I'm a Temple employee and all my co-pays are waived if I visit the TU Health System for my needs, I wanted to make an appointment with a Temple doc. I called to the Health Science campus and was unable to get an appointment for a month. I scheduled an appointment, but when my symptoms began to escalate I contacted the Comprehensive Health Center on the Episcopal campus to see if I could get a sooner appointment. I had previously been to the Episcopal campus to see a therapist (I was getting married/having stressors in my life! Everyone needs someone to chat with, right?) and it was an OK experience. I later decided to cope on my own. Anyway, I thought seeing a family doctor at Episcopal would be a viable option since they're close and I had a decent experience with the therapist.\n\nBOY, was I WRONG!!!!!!! My appointment was for 4:30 on a Wednesday. I arrived at 4:15 and stood in line for 20 minutes before I was even greeted by a receptionist. There was only one working the window, even though I saw three other people sitting at computers behind her talking to each other and on the phone. Even though the receptionist was working with a difficult patient and the line was forming behind her, no one thought it would be a good idea to assist. Anyway, at 4:35 I \"signed in\" and filled out a form. Then the waiting began.............I waited until 5:30 to even be called back to a private room. The room was a disaster. There was writing all over the walls, on their signs, and the general feel of the room was GRIMEY/FILTHY/GROSS. I was really fed up by 5:30, but I was feeling pretty crappy and I figured I had waited long enough that I might as well keep waiting. Anyway, I waited. And waited. And waited. And by 6:10 I decided to get the f outta there. As I left the nurse said that the doctor (Dr. Eisenberg) was \"on his way,\" as she had told me numerous times before. \n\nBottom line: Go anywhere else. ANYWHERE. Because you're not going to be served here.\n\nI eventually made an appointment at Temple Palmer Park. The physican was very nice (Dr. Thatchet), responsive to my follow-up phone call, and the place was CLEAN.",
+        "date": "2011-10-05 14:38:01",
+        "business_id": "FKlNp7sCdEIt8_tQ5AzXDg",
+        "business_name": "Temple University Hospital - Episcopal Campus",
+        "business_categories": "Hospitals, Health & Medical",
+        "business_city": "Philadelphia"
+      },
+      {
+        "stars": 4.0,
+        "text": "I have had two experiences with TU Ophthalmology. The first was in July of 2010 when I had a month long migraine. I was trying to find any possible cause or solution and went to a variety of doctors (ENTs, neurologists, accupuncturists, chiropractors, etc.). I had never had a real eye exam before so I called up Temple Ophthalmology and got an appointment right away (within a few days).\n\nWhile the waiting room was very crowded and I did need to wait for a little while after my actual appointment, when I saw Dr. Domoraski I was very pleased. Since I had never had an eye exam before I was a little nervous, but it was completely painless and he explained everything he was doing as he was doing it. It turns out that I have 20/10 vision and my eyes were not the culprit of my migraines. None the less, the experience was quite positive.\n\nMy second experience was this past Monday. My husband has been having headaches and ended up staying home from work. I have been telling him that he needs to get his vision checked (he has glasses and contacts) and he's been procrastinating. So, I called up the TU Hospital and asked if I could make an appointment for him. The woman I spoke with was VERY nice and even though I was calling at 8 a.m. she got him an appointment for 11:45 that day with Dr. Nguyen! He was very happy with his appointment and said that Dr. Nguyen told him that his glasses and contacts are actually TOO STRONG and that could be causing some of his headaches. They also spoke about his activities (how much reading he does, how much time he spends at his computer, how much driving he does, etc.) and she explained that some of his activities and how he functions could also be part of the problem.\n\nHe now needs to make a follow up appointment for a contact fitting, but I am sure that everything will go well. Yay for Temple Ophthalmology.",
+        "date": "2012-02-23 16:34:21",
+        "business_id": "0WIlsDUUFuUKcDfJPaHRkA",
+        "business_name": "Temple University Hospital ",
+        "business_categories": "Hospitals, Health & Medical, Optometrists",
+        "business_city": "Philadelphia"
+      }
+    ]
+  }
+]

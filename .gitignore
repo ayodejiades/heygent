@@ -41,3 +41,21 @@ chroma_db/
 # OS files
 .DS_Store
 Thumbs.db
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.synctex.gz
+docs/*.toc
+docs/*.fdb_latexmk
+docs/*.fls
+
+# Python local pkl models and cached slices
+backend/data/*.pkl
+backend/data/eval_metrics.json
+
+# Local Yelp Datasets / Large DBs
+yelp_dataset/
+*.log
+
